@@ -7,8 +7,8 @@ require 'awesome_print'
 class Miler < Thor
   desc 'download USERNAME', "Download GPX for USERNAME"
   def download(username)
-    res = client.get "/people/#{username}/routes"
     binding.pry
+    res = client.get "/people/#{username}/routes", since: DateTime.new(2015, 01, 01).to_time.to_i
     ap res
   end
 
