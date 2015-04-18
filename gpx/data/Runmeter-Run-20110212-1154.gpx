@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.1"
+  creator="Runmeter - http://www.runmeter.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:abvio="http://www.abvio.com/xmlschemas/1"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/gpx/1/1/gpx.xsd">
+<metadata>
+<name>Runmeter-Run-20110212-1154.gpx</name>
+<desc>Runmeter Run Feb 12, 2011, 11:54:46 AM</desc>
+<author><name>Abvio Runmeter</name><email id="support" domain="abvio.com"/></author>
+<copyright author="Abvio Inc."><year>2014</year></copyright>
+<link href="http://www.runmeter.com">
+<text>Abvio Runmeter</text>
+<type>text/html</type>
+</link>
+<time>2014-10-18T15:04:12Z</time>
+<keywords>Abvio, Runmeter, run</keywords>
+<bounds minlat="37.7982772" minlon="-122.2548838" maxlat="37.8356487" maxlon="-122.1833058"/>
+</metadata>
+<trk>
+<name><![CDATA[New Route]]></name>
+<type><![CDATA[Run]]></type>
+<trkseg>
+<trkpt lat="37.8228730" lon="-122.1863672"><ele>373.7</ele><time>2011-02-12T20:58:08Z</time></trkpt>
+<trkpt lat="37.8228528" lon="-122.1857764"><ele>349.7</ele><time>2011-02-12T21:05:00Z</time></trkpt>
+<trkpt lat="37.8228108" lon="-122.1851979"><ele>349.7</ele><time>2011-02-12T21:05:18Z</time></trkpt>
+<trkpt lat="37.8237839" lon="-122.1834821"><ele>349.9</ele><time>2011-02-12T21:06:10Z</time></trkpt>
+<trkpt lat="37.8239098" lon="-122.1834028"><ele>350.1</ele><time>2011-02-12T21:06:26Z</time></trkpt>
+<trkpt lat="37.8240426" lon="-122.1833275"><ele>350.2</ele><time>2011-02-12T21:06:29Z</time></trkpt>
+<trkpt lat="37.8272772" lon="-122.1847911"><ele>355.4</ele><time>2011-02-12T21:06:32Z</time></trkpt>
+</trkseg>
+<trkseg>
+<trkpt lat="37.8272772" lon="-122.1847911"><ele>355.4</ele><time>2011-02-12T21:17:34Z</time></trkpt>
+<trkpt lat="37.8314422" lon="-122.1859396"><ele>355.9</ele><time>2011-02-12T21:18:35Z</time></trkpt>
+</trkseg>
+<trkseg>
+<trkpt lat="37.8314422" lon="-122.1859396"><ele>355.9</ele><time>2011-02-12T21:24:05Z</time></trkpt>
+<trkpt lat="37.8324155" lon="-122.1856030"><ele>351.1</ele><time>2011-02-12T21:24:05Z</time></trkpt>
+<trkpt lat="37.8356487" lon="-122.1882472"><ele>348.1</ele><time>2011-02-12T21:25:37Z</time></trkpt>
+<trkpt lat="37.8304359" lon="-122.1996799"><ele>344.7</ele><time>2011-02-12T21:27:22Z</time></trkpt>
+<trkpt lat="37.7982772" lon="-122.2548838"><ele>43.0</ele><time>2011-02-12T21:52:40Z</time></trkpt>
+</trkseg>
+</trk>
+<extensions>
+<abvio:xmlVersion>1</abvio:xmlVersion>
+<abvio:appInstanceID>5e3ba2f14c227d4b</abvio:appInstanceID>
+<abvio:runID>44</abvio:runID>
+<abvio:routeID>0</abvio:routeID>
+<abvio:activityName><![CDATA[Run]]></abvio:activityName>
+<abvio:activityTypeID>0</abvio:activityTypeID>
+<abvio:activitySpeedBased>0</abvio:activitySpeedBased>
+<abvio:startTime>2011-02-12 19:54:46.014</abvio:startTime>
+<abvio:startTimeZone>America/Los_Angeles</abvio:startTimeZone>
+<abvio:runTime>4868.790</abvio:runTime>
+<abvio:stoppedTime>2789.159</abvio:stoppedTime>
+<abvio:badGPSTime>2759.043</abvio:badGPSTime>
+<abvio:distance>8956.0</abvio:distance>
+<abvio:ascent>44.0</abvio:ascent>
+<abvio:descent>377.9</abvio:descent>
+<abvio:calories>1.136</abvio:calories>
+<abvio:maxSpeed>0.6</abvio:maxSpeed>
+<abvio:minPace>1.642</abvio:minPace>
+<abvio:avgHeartRate>0</abvio:avgHeartRate>
+<abvio:maxHeartRate>0</abvio:maxHeartRate>
+<abvio:avgWheelRPM>0</abvio:avgWheelRPM>
+<abvio:maxWheelRPM>0</abvio:maxWheelRPM>
+<abvio:avgCrankRPM>0</abvio:avgCrankRPM>
+<abvio:maxCrankRPM>0</abvio:maxCrankRPM>
+<abvio:avgPower>0</abvio:avgPower>
+<abvio:maxPower>0</abvio:maxPower>
+<abvio:thresholdPower>0</abvio:thresholdPower>
+<abvio:adjustedPower>0</abvio:adjustedPower>
+<abvio:powerIntensity>0.000</abvio:powerIntensity>
+<abvio:powerScore>0</abvio:powerScore>
+<abvio:peakPower20Sec>0</abvio:peakPower20Sec>
+<abvio:peakPower1Min>0</abvio:peakPower1Min>
+<abvio:peakPower5Min>0</abvio:peakPower5Min>
+<abvio:peakPower10Min>0</abvio:peakPower10Min>
+<abvio:peakPower20Min>0</abvio:peakPower20Min>
+<abvio:peakPower1Hr>0</abvio:peakPower1Hr>
+<abvio:weight>64.9</abvio:weight>
+<abvio:age>0</abvio:age>
+<abvio:genderMale>1</abvio:genderMale>
+<abvio:vo2Max>0.0</abvio:vo2Max>
+<abvio:wheelSize>0.00</abvio:wheelSize>
+<abvio:official>0</abvio:official>
+<abvio:runEditFlags>0</abvio:runEditFlags>
+<abvio:dontLoadRunData>0</abvio:dontLoadRunData>
+<abvio:batteryUsage>0.20</abvio:batteryUsage>
+<abvio:pathOnly>0</abvio:pathOnly>
+<abvio:competitorInitials><![CDATA[AH]]></abvio:competitorInitials>
+<abvio:stopDetection>1</abvio:stopDetection>
+<abvio:caloriesUseElevation>1</abvio:caloriesUseElevation>
+<abvio:notes><![CDATA[]]></abvio:notes>
+<abvio:coordinateHasSpeed>1</abvio:coordinateHasSpeed>
+<abvio:altitudeHasDistanceDelta>0</abvio:altitudeHasDistanceDelta>
+<abvio:altitudeHasClimbSpeed>1</abvio:altitudeHasClimbSpeed>
+<abvio:altitudeHasLongAltitude>0</abvio:altitudeHasLongAltitude>
+<abvio:useIndoors>0</abvio:useIndoors>
+<abvio:bikeID>0</abvio:bikeID>
+<abvio:shoesID>0</abvio:shoesID>
+<abvio:useSteps>0</abvio:useSteps>
+<abvio:useStepDistance>0</abvio:useStepDistance>
+<abvio:stepLength>-1.000</abvio:stepLength>
+<abvio:steps>0</abvio:steps>
+<abvio:grossSteps>0</abvio:grossSteps>
+<abvio:maxStepsPM>0</abvio:maxStepsPM>
+<abvio:avgStepsPM>0</abvio:avgStepsPM>
+<abvio:minTemperature>-200.0</abvio:minTemperature>
+<abvio:avgTemperature>-200.0</abvio:avgTemperature>
+<abvio:maxTemperature>-200.0</abvio:maxTemperature>
+<abvio:runStateTable>
+0.000,1,0
+3.674,2,0
+147.063,1,0
+1212.863,2,0
+1273.246,1,0
+2792.175,2,0
+3802.546,1,0
+7657.949,2,0
+</abvio:runStateTable>
+<abvio:stopDetectionTable>
+0.000,0
+3.674,1
+147.063,0
+1212.863,1
+1273.246,0
+2792.175,1
+3802.546,0
+4306.218,3
+4968.454,2
+5029.981,3
+5359.089,2
+7074.277,3
+7657.949,1
+</abvio:stopDetectionTable>
+<abvio:coordinateTable>
+4204.464,37.8228730,-122.1863672,0.0,0.0,-1.0
+4214.465,37.8228528,-122.1857764,51.9,0.0,-1.0
+4232.466,37.8228108,-122.1851979,51.0,0.0,-1.0
+4284.213,37.8237839,-122.1834821,185.4,0.0,-1.0
+4300.215,37.8239098,-122.1834028,15.6,0.3,-1.0
+4303.214,37.8240426,-122.1833275,16.2,0.5,-1.0
+4305.221,37.8240856,-122.1833058,5.1,0.6,-1.0
+4968.455,37.8304688,-122.1862763,755.5,0.0,-1.0
+5029.981,37.8316182,-122.1850335,167.9,0.0,-1.0
+5359.089,37.8324155,-122.1856030,101.7,0.0,-1.0
+5451.667,37.8356487,-122.1882472,427.6,0.0,-1.0
+5556.666,37.8304359,-122.1996799,1158.3,0.0,-1.0
+6962.274,37.7982772,-122.2548838,6019.8,0.0,-1.0
+7657.279,37.7982772,-122.2548838,0.0,0.0,-1.0
+</abvio:coordinateTable>
+<abvio:altitudeTable>
+4204.464,373.7,0.0,0.084,0.0
+4213.464,349.7,0.0,0.071,0.0
+4239.464,349.7,0.0,1.103,0.0
+4248.462,349.7,0.0,-0.361,0.0
+4274.212,349.7,0.0,0.033,0.0
+5029.981,361.7,0.0,0.000,0.0
+5556.666,344.7,0.0,-0.154,0.0
+5562.664,333.7,0.0,-0.257,0.0
+5564.664,333.7,0.0,-0.252,0.0
+5565.665,333.7,0.0,-0.320,0.0
+5595.667,313.7,0.0,-0.346,0.0
+5598.668,302.7,0.0,-0.421,0.0
+5601.667,284.7,0.0,-0.544,0.0
+5605.660,261.7,0.0,-0.683,0.0
+5614.663,250.7,0.0,-0.725,0.0
+5659.664,238.7,0.0,-1.049,0.0
+5671.665,238.7,0.0,-0.233,0.0
+5704.474,238.7,0.0,-0.099,0.0
+5751.087,216.7,0.0,-0.347,0.0
+5775.091,194.7,0.0,-0.706,0.0
+5782.090,183.7,0.0,-0.900,0.0
+5824.290,170.7,0.0,-0.664,0.0
+5833.294,152.7,0.0,-0.697,0.0
+5838.290,140.7,0.0,-0.897,0.0
+5843.291,127.7,0.0,-0.930,0.0
+5847.288,116.7,0.0,-1.113,0.0
+5882.289,95.8,0.0,-1.131,0.0
+5894.287,78.8,0.0,-1.333,0.0
+5896.295,61.8,0.0,-1.450,0.0
+5898.290,41.8,0.0,-1.516,0.0
+5958.292,41.8,0.0,-0.233,0.0
+5967.290,28.8,0.0,-0.206,0.0
+6019.292,28.8,0.0,-0.049,0.0
+6241.290,41.8,0.0,0.133,0.0
+6244.292,41.8,0.0,0.117,0.0
+6258.291,60.8,0.0,0.410,0.0
+6294.288,45.8,0.0,0.183,0.0
+6302.283,45.8,0.0,0.065,0.0
+6319.288,45.8,0.0,-0.295,0.0
+6328.291,45.8,0.0,-0.233,0.0
+6355.288,45.8,0.0,-0.099,0.0
+7657.279,39.8,0.0,0.000,0.0
+</abvio:altitudeTable>
+</extensions>
+</gpx>

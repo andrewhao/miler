@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.1"
+  creator="Runmeter - http://www.runmeter.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:abvio="http://www.abvio.com/xmlschemas/1"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/gpx/1/1/gpx.xsd">
+<metadata>
+<name>Runmeter-Run-20140713-0702.gpx</name>
+<desc>Runmeter Run Jul 13, 2014, 7:02:24 AM</desc>
+<author><name>Abvio Runmeter</name><email id="support" domain="abvio.com"/></author>
+<copyright author="Abvio Inc."><year>2014</year></copyright>
+<link href="http://www.runmeter.com">
+<text>Abvio Runmeter</text>
+<type>text/html</type>
+</link>
+<time>2014-07-13T15:00:56Z</time>
+<keywords>Abvio, Runmeter, run</keywords>
+<bounds minlat="37.8031325" minlon="-122.1781818" maxlat="37.8121741" maxlon="-122.1557214"/>
+</metadata>
+<trk>
+<name><![CDATA[New Route]]></name>
+<type><![CDATA[Run]]></type>
+<trkseg>
+<trkpt lat="37.8034673" lon="-122.1768915"><ele>335.8</ele><time>2014-07-13T14:02:24Z</time></trkpt>
+<trkpt lat="37.8034733" lon="-122.1769466"><ele>335.2</ele><time>2014-07-13T14:02:29Z</time></trkpt>
+<trkpt lat="37.8036090" lon="-122.1768478"><ele>333.7</ele><time>2014-07-13T14:02:40Z</time></trkpt>
+<trkpt lat="37.8036748" lon="-122.1768660"><ele>333.3</ele><time>2014-07-13T14:02:43Z</time></trkpt>
+<trkpt lat="37.8037427" lon="-122.1769581"><ele>332.7</ele><time>2014-07-13T14:02:47Z</time></trkpt>
+<trkpt lat="37.8038715" lon="-122.1770368"><ele>332.5</ele><time>2014-07-13T14:02:51Z</time></trkpt>
+<trkpt lat="37.8039815" lon="-122.1771620"><ele>333.3</ele><time>2014-07-13T14:02:56Z</time></trkpt>
+<trkpt lat="37.8039752" lon="-122.1772175"><ele>333.6</ele><time>2014-07-13T14:02:58Z</time></trkpt>
+<trkpt lat="37.8038729" lon="-122.1771058"><ele>334.2</ele><time>2014-07-13T14:03:02Z</time></trkpt>
+<trkpt lat="37.8037688" lon="-122.1769858"><ele>334.8</ele><time>2014-07-13T14:03:06Z</time></trkpt>
+<trkpt lat="37.8036347" lon="-122.1769269"><ele>335.6</ele><time>2014-07-13T14:03:11Z</time></trkpt>
+<trkpt lat="37.8035055" lon="-122.1768127"><ele>336.3</ele><time>2014-07-13T14:03:17Z</time></trkpt>
+<trkpt lat="37.8034346" lon="-122.1766334"><ele>335.8</ele><time>2014-07-13T14:03:22Z</time></trkpt>
+<trkpt lat="37.8033608" lon="-122.1765106"><ele>335.4</ele><time>2014-07-13T14:03:26Z</time></trkpt>
+<trkpt lat="37.8033966" lon="-122.1764159"><ele>335.0</ele><time>2014-07-13T14:03:30Z</time></trkpt>
+<trkpt lat="37.8032703" lon="-122.1763024"><ele>334.4</ele><time>2014-07-13T14:03:36Z</time></trkpt>
+<trkpt lat="37.8031738" lon="-122.1761787"><ele>333.9</ele><time>2014-07-13T14:03:41Z</time></trkpt>
+<trkpt lat="37.8031426" lon="-122.1759788"><ele>333.2</ele><time>2014-07-13T14:03:48Z</time></trkpt>
+<trkpt lat="37.8031493" lon="-122.1757860"><ele>331.4</ele><time>2014-07-13T14:04:02Z</time></trkpt>
+<trkpt lat="37.8031520" lon="-122.1756020"><ele>329.8</ele><time>2014-07-13T14:04:07Z</time></trkpt>
+<trkpt lat="37.8031632" lon="-122.1754711"><ele>328.5</ele><time>2014-07-13T14:04:11Z</time></trkpt>
+<trkpt lat="37.8032732" lon="-122.1755959"><ele>326.1</ele><time>2014-07-13T14:04:16Z</time></trkpt>
+<trkpt lat="37.8033627" lon="-122.1757277"><ele>325.3</ele><time>2014-07-13T14:04:20Z</time></trkpt>
+<trkpt lat="37.8034725" lon="-122.1758509"><ele>324.3</ele><time>2014-07-13T14:04:25Z</time></trkpt>
+<trkpt lat="37.8035811" lon="-122.1759610"><ele>323.2</ele><time>2014-07-13T14:04:30Z</time></trkpt>
+<trkpt lat="37.8037023" lon="-122.1760445"><ele>322.5</ele><time>2014-07-13T14:04:35Z</time></trkpt>
+<trkpt lat="37.8038174" lon="-122.1761366"><ele>322.1</ele><time>2014-07-13T14:04:40Z</time></trkpt>
+<trkpt lat="37.8039251" lon="-122.1762517"><ele>321.7</ele><time>2014-07-13T14:04:45Z</time></trkpt>
+<trkpt lat="37.8040454" lon="-122.1763367"><ele>321.3</ele><time>2014-07-13T14:04:50Z</time></trkpt>
+<trkpt lat="37.8041487" lon="-122.1764557"><ele>320.9</ele><time>2014-07-13T14:04:55Z</time></trkpt>
+<trkpt lat="37.8042669" lon="-122.1765582"><ele>320.5</ele><time>2014-07-13T14:05:00Z</time></trkpt>
+<trkpt lat="37.8043303" lon="-122.1767113"><ele>320.1</ele><time>2014-07-13T14:05:05Z</time></trkpt>
+<trkpt lat="37.8042769" lon="-122.1768959"><ele>319.7</ele><time>2014-07-13T14:05:10Z</time></trkpt>
+<trkpt lat="37.8043053" lon="-122.1770692"><ele>323.8</ele><time>2014-07-13T14:05:24Z</time></trkpt>
+<trkpt lat="37.8043379" lon="-122.1772351"><ele>326.5</ele><time>2014-07-13T14:05:30Z</time></trkpt>
+<trkpt lat="37.8043710" lon="-122.1774126"><ele>329.9</ele><time>2014-07-13T14:05:38Z</time></trkpt>
+<trkpt lat="37.8044620" lon="-122.1775480"><ele>333.7</ele><time>2014-07-13T14:05:51Z</time></trkpt>
+<trkpt lat="37.8045329" lon="-122.1776949"><ele>334.7</ele><time>2014-07-13T14:06:02Z</time></trkpt>
+<trkpt lat="37.8045882" lon="-122.1778636"><ele>336.1</ele><time>2014-07-13T14:06:13Z</time></trkpt>
+<trkpt lat="37.8046578" lon="-122.1780171"><ele>338.9</ele><time>2014-07-13T14:06:25Z</time></trkpt>
+<trkpt lat="37.8047612" lon="-122.1781478"><ele>341.2</ele><time>2014-07-13T14:06:37Z</time></trkpt>
+<trkpt lat="37.8049091" lon="-122.1781818"><ele>347.0</ele><time>2014-07-13T14:06:50Z</time></trkpt>
+<trkpt lat="37.8050373" lon="-122.1780915"><ele>348.7</ele><time>2014-07-13T14:06:58Z</time></trkpt>
+<trkpt lat="37.8051354" lon="-122.1779700"><ele>350.2</ele><time>2014-07-13T14:07:05Z</time></trkpt>
+<trkpt lat="37.8051980" lon="-122.1778182"><ele>351.1</ele><time>2014-07-13T14:07:11Z</time></trkpt>
+<trkpt lat="37.8052253" lon="-122.1777141"><ele>350.6</ele><time>2014-07-13T14:07:17Z</time></trkpt>
+<trkpt lat="37.8052060" lon="-122.1777399"><ele>351.5</ele><time>2014-07-13T14:07:22Z</time></trkpt>
+<trkpt lat="37.8053668" lon="-122.1777673"><ele>357.7</ele><time>2014-07-13T14:08:05Z</time></trkpt>
+<trkpt lat="37.8055154" lon="-122.1778467"><ele>358.6</ele><time>2014-07-13T14:08:11Z</time></trkpt>
+<trkpt lat="37.8056500" lon="-122.1778654"><ele>359.6</ele><time>2014-07-13T14:08:17Z</time></trkpt>
+<trkpt lat="37.8058021" lon="-122.1777934"><ele>358.5</ele><time>2014-07-13T14:08:25Z</time></trkpt>
+<trkpt lat="37.8058428" lon="-122.1776043"><ele>359.8</ele><time>2014-07-13T14:08:34Z</time></trkpt>
+<trkpt lat="37.8058486" lon="-122.1774319"><ele>360.6</ele><time>2014-07-13T14:08:40Z</time></trkpt>
+<trkpt lat="37.8058214" lon="-122.1772235"><ele>361.4</ele><time>2014-07-13T14:08:45Z</time></trkpt>
+<trkpt lat="37.8057913" lon="-122.1770423"><ele>362.1</ele><time>2014-07-13T14:08:50Z</time></trkpt>
+<trkpt lat="37.8058136" lon="-122.1768521"><ele>364.0</ele><time>2014-07-13T14:08:56Z</time></trkpt>
+<trkpt lat="37.8058598" lon="-122.1767734"><ele>364.0</ele><time>2014-07-13T14:09:00Z</time></trkpt>
+<trkpt lat="37.8060037" lon="-122.1767891"><ele>366.5</ele><time>2014-07-13T14:09:06Z</time></trkpt>
+<trkpt lat="37.8061499" lon="-122.1768231"><ele>366.0</ele><time>2014-07-13T14:09:16Z</time></trkpt>
+<trkpt lat="37.8062900" lon="-122.1768419"><ele>364.9</ele><time>2014-07-13T14:09:30Z</time></trkpt>
+<trkpt lat="37.8064430" lon="-122.1767951"><ele>361.8</ele><time>2014-07-13T14:09:35Z</time></trkpt>
+<trkpt lat="37.8065177" lon="-122.1766798"><ele>359.7</ele><time>2014-07-13T14:09:39Z</time></trkpt>
+<trkpt lat="37.8064716" lon="-122.1765121"><ele>360.6</ele><time>2014-07-13T14:09:44Z</time></trkpt>
+<trkpt lat="37.8063828" lon="-122.1763833"><ele>361.6</ele><time>2014-07-13T14:09:49Z</time></trkpt>
+<trkpt lat="37.8063105" lon="-122.1762292"><ele>362.7</ele><time>2014-07-13T14:09:55Z</time></trkpt>
+<trkpt lat="37.8062586" lon="-122.1760440"><ele>365.7</ele><time>2014-07-13T14:10:01Z</time></trkpt>
+<trkpt lat="37.8062492" lon="-122.1759332"><ele>370.0</ele><time>2014-07-13T14:10:05Z</time></trkpt>
+<trkpt lat="37.8063600" lon="-122.1757726"><ele>371.9</ele><time>2014-07-13T14:10:11Z</time></trkpt>
+<trkpt lat="37.8064792" lon="-122.1756836"><ele>373.7</ele><time>2014-07-13T14:10:17Z</time></trkpt>
+<trkpt lat="37.8065815" lon="-122.1756003"><ele>375.3</ele><time>2014-07-13T14:10:22Z</time></trkpt>
+<trkpt lat="37.8065589" lon="-122.1755457"><ele>375.9</ele><time>2014-07-13T14:10:24Z</time></trkpt>
+<trkpt lat="37.8064241" lon="-122.1754430"><ele>376.5</ele><time>2014-07-13T14:10:29Z</time></trkpt>
+<trkpt lat="37.8062925" lon="-122.1753280"><ele>375.4</ele><time>2014-07-13T14:10:35Z</time></trkpt>
+<trkpt lat="37.8062111" lon="-122.1751710"><ele>374.6</ele><time>2014-07-13T14:10:41Z</time></trkpt>
+<trkpt lat="37.8062431" lon="-122.1750556"><ele>375.4</ele><time>2014-07-13T14:10:45Z</time></trkpt>
+<trkpt lat="37.8063432" lon="-122.1749150"><ele>378.3</ele><time>2014-07-13T14:10:51Z</time></trkpt>
+<trkpt lat="37.8064728" lon="-122.1748497"><ele>380.9</ele><time>2014-07-13T14:10:58Z</time></trkpt>
+<trkpt lat="37.8066104" lon="-122.1747491"><ele>383.9</ele><time>2014-07-13T14:11:06Z</time></trkpt>
+<trkpt lat="37.8067138" lon="-122.1746184"><ele>380.1</ele><time>2014-07-13T14:11:13Z</time></trkpt>
+<trkpt lat="37.8067892" lon="-122.1744699"><ele>379.4</ele><time>2014-07-13T14:11:18Z</time></trkpt>
+<trkpt lat="37.8069123" lon="-122.1743040"><ele>378.2</ele><time>2014-07-13T14:11:24Z</time></trkpt>
+<trkpt lat="37.8070578" lon="-122.1742983"><ele>374.1</ele><time>2014-07-13T14:11:30Z</time></trkpt>
+<trkpt lat="37.8071972" lon="-122.1742941"><ele>370.1</ele><time>2014-07-13T14:11:34Z</time></trkpt>
+<trkpt lat="37.8073170" lon="-122.1742629"><ele>371.1</ele><time>2014-07-13T14:11:38Z</time></trkpt>
+<trkpt lat="37.8073531" lon="-122.1741634"><ele>371.8</ele><time>2014-07-13T14:11:41Z</time></trkpt>
+<trkpt lat="37.8072651" lon="-122.1740249"><ele>372.8</ele><time>2014-07-13T14:11:46Z</time></trkpt>
+<trkpt lat="37.8071585" lon="-122.1739100"><ele>374.1</ele><time>2014-07-13T14:11:52Z</time></trkpt>
+<trkpt lat="37.8070456" lon="-122.1738123"><ele>376.2</ele><time>2014-07-13T14:11:59Z</time></trkpt>
+<trkpt lat="37.8069391" lon="-122.1736573"><ele>379.3</ele><time>2014-07-13T14:12:06Z</time></trkpt>
+<trkpt lat="37.8068464" lon="-122.1734923"><ele>376.4</ele><time>2014-07-13T14:12:13Z</time></trkpt>
+<trkpt lat="37.8067393" lon="-122.1733848"><ele>381.3</ele><time>2014-07-13T14:12:19Z</time></trkpt>
+<trkpt lat="37.8066856" lon="-122.1733940"><ele>380.6</ele><time>2014-07-13T14:12:22Z</time></trkpt>
+<trkpt lat="37.8066358" lon="-122.1733664"><ele>376.9</ele><time>2014-07-13T14:12:36Z</time></trkpt>
+<trkpt lat="37.8065033" lon="-122.1734732"><ele>373.7</ele><time>2014-07-13T14:12:43Z</time></trkpt>
+<trkpt lat="37.8063440" lon="-122.1734752"><ele>372.4</ele><time>2014-07-13T14:12:49Z</time></trkpt>
+<trkpt lat="37.8062482" lon="-122.1733541"><ele>371.0</ele><time>2014-07-13T14:12:55Z</time></trkpt>
+<trkpt lat="37.8061158" lon="-122.1732537"><ele>370.1</ele><time>2014-07-13T14:13:01Z</time></trkpt>
+<trkpt lat="37.8060407" lon="-122.1731324"><ele>369.8</ele><time>2014-07-13T14:13:04Z</time></trkpt>
+<trkpt lat="37.8060793" lon="-122.1729454"><ele>369.1</ele><time>2014-07-13T14:13:10Z</time></trkpt>
+<trkpt lat="37.8061089" lon="-122.1727702"><ele>368.5</ele><time>2014-07-13T14:13:16Z</time></trkpt>
+<trkpt lat="37.8061208" lon="-122.1725771"><ele>367.0</ele><time>2014-07-13T14:13:23Z</time></trkpt>
+<trkpt lat="37.8061636" lon="-122.1723931"><ele>365.0</ele><time>2014-07-13T14:13:29Z</time></trkpt>
+<trkpt lat="37.8062547" lon="-122.1722464"><ele>364.0</ele><time>2014-07-13T14:13:35Z</time></trkpt>
+<trkpt lat="37.8063920" lon="-122.1721983"><ele>361.0</ele><time>2014-07-13T14:13:40Z</time></trkpt>
+<trkpt lat="37.8065288" lon="-122.1721310"><ele>356.5</ele><time>2014-07-13T14:13:45Z</time></trkpt>
+<trkpt lat="37.8065815" lon="-122.1719599"><ele>354.3</ele><time>2014-07-13T14:13:49Z</time></trkpt>
+<trkpt lat="37.8066414" lon="-122.1717862"><ele>352.0</ele><time>2014-07-13T14:13:53Z</time></trkpt>
+<trkpt lat="37.8066670" lon="-122.1716027"><ele>350.7</ele><time>2014-07-13T14:13:58Z</time></trkpt>
+<trkpt lat="37.8066639" lon="-122.1713997"><ele>348.7</ele><time>2014-07-13T14:14:08Z</time></trkpt>
+<trkpt lat="37.8066750" lon="-122.1712201"><ele>347.9</ele><time>2014-07-13T14:14:12Z</time></trkpt>
+<trkpt lat="37.8067214" lon="-122.1710542"><ele>347.1</ele><time>2014-07-13T14:14:16Z</time></trkpt>
+<trkpt lat="37.8068672" lon="-122.1709980"><ele>346.1</ele><time>2014-07-13T14:14:21Z</time></trkpt>
+<trkpt lat="37.8070198" lon="-122.1710352"><ele>342.6</ele><time>2014-07-13T14:14:26Z</time></trkpt>
+<trkpt lat="37.8071014" lon="-122.1711821"><ele>340.3</ele><time>2014-07-13T14:14:33Z</time></trkpt>
+<trkpt lat="37.8071602" lon="-122.1713322"><ele>338.9</ele><time>2014-07-13T14:14:38Z</time></trkpt>
+<trkpt lat="37.8073125" lon="-122.1713031"><ele>337.2</ele><time>2014-07-13T14:14:44Z</time></trkpt>
+<trkpt lat="37.8074503" lon="-122.1713126"><ele>338.3</ele><time>2014-07-13T14:14:49Z</time></trkpt>
+<trkpt lat="37.8075779" lon="-122.1713740"><ele>339.5</ele><time>2014-07-13T14:14:55Z</time></trkpt>
+<trkpt lat="37.8077147" lon="-122.1714557"><ele>340.7</ele><time>2014-07-13T14:15:01Z</time></trkpt>
+<trkpt lat="37.8078252" lon="-122.1715863"><ele>341.6</ele><time>2014-07-13T14:15:06Z</time></trkpt>
+<trkpt lat="37.8079013" lon="-122.1716245"><ele>342.2</ele><time>2014-07-13T14:15:09Z</time></trkpt>
+<trkpt lat="37.8080374" lon="-122.1715595"><ele>343.2</ele><time>2014-07-13T14:15:14Z</time></trkpt>
+<trkpt lat="37.8080988" lon="-122.1713798"><ele>343.3</ele><time>2014-07-13T14:15:20Z</time></trkpt>
+<trkpt lat="37.8081038" lon="-122.1711919"><ele>341.5</ele><time>2014-07-13T14:15:26Z</time></trkpt>
+<trkpt lat="37.8080812" lon="-122.1709971"><ele>345.3</ele><time>2014-07-13T14:15:33Z</time></trkpt>
+<trkpt lat="37.8080912" lon="-122.1708242"><ele>346.4</ele><time>2014-07-13T14:15:42Z</time></trkpt>
+<trkpt lat="37.8081904" lon="-122.1707033"><ele>346.6</ele><time>2014-07-13T14:15:49Z</time></trkpt>
+<trkpt lat="37.8082827" lon="-122.1705684"><ele>346.7</ele><time>2014-07-13T14:15:54Z</time></trkpt>
+<trkpt lat="37.8083798" lon="-122.1704289"><ele>346.8</ele><time>2014-07-13T14:16:01Z</time></trkpt>
+<trkpt lat="37.8083637" lon="-122.1702517"><ele>351.2</ele><time>2014-07-13T14:16:09Z</time></trkpt>
+<trkpt lat="37.8082907" lon="-122.1701045"><ele>353.6</ele><time>2014-07-13T14:16:19Z</time></trkpt>
+<trkpt lat="37.8082451" lon="-122.1699421"><ele>350.8</ele><time>2014-07-13T14:16:31Z</time></trkpt>
+<trkpt lat="37.8081858" lon="-122.1697843"><ele>354.3</ele><time>2014-07-13T14:16:44Z</time></trkpt>
+<trkpt lat="37.8081839" lon="-122.1695994"><ele>356.3</ele><time>2014-07-13T14:16:57Z</time></trkpt>
+<trkpt lat="37.8082008" lon="-122.1694254"><ele>357.3</ele><time>2014-07-13T14:17:04Z</time></trkpt>
+<trkpt lat="37.8082856" lon="-122.1692890"><ele>355.4</ele><time>2014-07-13T14:17:09Z</time></trkpt>
+<trkpt lat="37.8084017" lon="-122.1691605"><ele>355.5</ele><time>2014-07-13T14:17:14Z</time></trkpt>
+<trkpt lat="37.8085328" lon="-122.1691187"><ele>357.6</ele><time>2014-07-13T14:17:19Z</time></trkpt>
+<trkpt lat="37.8086743" lon="-122.1691851"><ele>358.5</ele><time>2014-07-13T14:17:25Z</time></trkpt>
+<trkpt lat="37.8088250" lon="-122.1692508"><ele>358.1</ele><time>2014-07-13T14:17:31Z</time></trkpt>
+<trkpt lat="37.8089509" lon="-122.1693309"><ele>357.6</ele><time>2014-07-13T14:17:37Z</time></trkpt>
+<trkpt lat="37.8090928" lon="-122.1693724"><ele>357.3</ele><time>2014-07-13T14:17:42Z</time></trkpt>
+<trkpt lat="37.8092226" lon="-122.1694585"><ele>356.8</ele><time>2014-07-13T14:17:48Z</time></trkpt>
+<trkpt lat="37.8092982" lon="-122.1696123"><ele>356.3</ele><time>2014-07-13T14:17:55Z</time></trkpt>
+<trkpt lat="37.8094377" lon="-122.1696429"><ele>356.0</ele><time>2014-07-13T14:18:00Z</time></trkpt>
+<trkpt lat="37.8096033" lon="-122.1696345"><ele>355.6</ele><time>2014-07-13T14:18:05Z</time></trkpt>
+<trkpt lat="37.8097602" lon="-122.1696435"><ele>353.5</ele><time>2014-07-13T14:18:09Z</time></trkpt>
+<trkpt lat="37.8099082" lon="-122.1696568"><ele>350.9</ele><time>2014-07-13T14:18:14Z</time></trkpt>
+<trkpt lat="37.8100389" lon="-122.1697316"><ele>351.9</ele><time>2014-07-13T14:18:19Z</time></trkpt>
+<trkpt lat="37.8101624" lon="-122.1698688"><ele>353.1</ele><time>2014-07-13T14:18:25Z</time></trkpt>
+<trkpt lat="37.8102755" lon="-122.1699726"><ele>353.9</ele><time>2014-07-13T14:18:30Z</time></trkpt>
+<trkpt lat="37.8103450" lon="-122.1701250"><ele>353.5</ele><time>2014-07-13T14:18:35Z</time></trkpt>
+<trkpt lat="37.8105080" lon="-122.1700848"><ele>353.2</ele><time>2014-07-13T14:18:40Z</time></trkpt>
+<trkpt lat="37.8106455" lon="-122.1699838"><ele>351.7</ele><time>2014-07-13T14:18:45Z</time></trkpt>
+<trkpt lat="37.8107709" lon="-122.1698871"><ele>350.8</ele><time>2014-07-13T14:18:50Z</time></trkpt>
+<trkpt lat="37.8109131" lon="-122.1698733"><ele>351.2</ele><time>2014-07-13T14:18:55Z</time></trkpt>
+<trkpt lat="37.8110636" lon="-122.1699173"><ele>352.5</ele><time>2014-07-13T14:19:01Z</time></trkpt>
+<trkpt lat="37.8112109" lon="-122.1699149"><ele>353.4</ele><time>2014-07-13T14:19:07Z</time></trkpt>
+<trkpt lat="37.8113349" lon="-122.1700093"><ele>354.2</ele><time>2014-07-13T14:19:15Z</time></trkpt>
+<trkpt lat="37.8113615" lon="-122.1700667"><ele>355.4</ele><time>2014-07-13T14:19:27Z</time></trkpt>
+<trkpt lat="37.8114907" lon="-122.1701284"><ele>355.1</ele><time>2014-07-13T14:19:55Z</time></trkpt>
+<trkpt lat="37.8116444" lon="-122.1701017"><ele>354.5</ele><time>2014-07-13T14:19:59Z</time></trkpt>
+<trkpt lat="37.8118109" lon="-122.1701014"><ele>353.9</ele><time>2014-07-13T14:20:03Z</time></trkpt>
+<trkpt lat="37.8119467" lon="-122.1701719"><ele>358.2</ele><time>2014-07-13T14:20:11Z</time></trkpt>
+<trkpt lat="37.8120705" lon="-122.1702943"><ele>357.4</ele><time>2014-07-13T14:20:18Z</time></trkpt>
+<trkpt lat="37.8121741" lon="-122.1703053"><ele>356.9</ele><time>2014-07-13T14:20:23Z</time></trkpt>
+<trkpt lat="37.8121243" lon="-122.1701229"><ele>356.1</ele><time>2014-07-13T14:20:30Z</time></trkpt>
+<trkpt lat="37.8120763" lon="-122.1699324"><ele>355.3</ele><time>2014-07-13T14:20:37Z</time></trkpt>
+<trkpt lat="37.8119925" lon="-122.1697640"><ele>354.6</ele><time>2014-07-13T14:20:43Z</time></trkpt>
+<trkpt lat="37.8119179" lon="-122.1695991"><ele>356.0</ele><time>2014-07-13T14:20:47Z</time></trkpt>
+<trkpt lat="37.8118841" lon="-122.1694276"><ele>357.8</ele><time>2014-07-13T14:20:52Z</time></trkpt>
+<trkpt lat="37.8119382" lon="-122.1692706"><ele>361.0</ele><time>2014-07-13T14:20:57Z</time></trkpt>
+<trkpt lat="37.8119656" lon="-122.1690757"><ele>363.7</ele><time>2014-07-13T14:21:03Z</time></trkpt>
+<trkpt lat="37.8118810" lon="-122.1689111"><ele>365.7</ele><time>2014-07-13T14:21:16Z</time></trkpt>
+<trkpt lat="37.8118197" lon="-122.1687507"><ele>367.7</ele><time>2014-07-13T14:21:22Z</time></trkpt>
+<trkpt lat="37.8118193" lon="-122.1685634"><ele>367.3</ele><time>2014-07-13T14:21:28Z</time></trkpt>
+<trkpt lat="37.8117093" lon="-122.1684235"><ele>366.6</ele><time>2014-07-13T14:21:33Z</time></trkpt>
+<trkpt lat="37.8115683" lon="-122.1683506"><ele>365.5</ele><time>2014-07-13T14:21:40Z</time></trkpt>
+<trkpt lat="37.8114884" lon="-122.1682021"><ele>364.9</ele><time>2014-07-13T14:21:46Z</time></trkpt>
+<trkpt lat="37.8114017" lon="-122.1680469"><ele>365.8</ele><time>2014-07-13T14:21:53Z</time></trkpt>
+<trkpt lat="37.8112667" lon="-122.1679532"><ele>367.8</ele><time>2014-07-13T14:22:01Z</time></trkpt>
+<trkpt lat="37.8111793" lon="-122.1677997"><ele>369.9</ele><time>2014-07-13T14:22:08Z</time></trkpt>
+<trkpt lat="37.8112217" lon="-122.1676277"><ele>372.1</ele><time>2014-07-13T14:22:19Z</time></trkpt>
+<trkpt lat="37.8112302" lon="-122.1674518"><ele>373.1</ele><time>2014-07-13T14:22:27Z</time></trkpt>
+<trkpt lat="37.8111677" lon="-122.1672862"><ele>374.6</ele><time>2014-07-13T14:22:39Z</time></trkpt>
+<trkpt lat="37.8111047" lon="-122.1671231"><ele>375.5</ele><time>2014-07-13T14:22:47Z</time></trkpt>
+<trkpt lat="37.8110316" lon="-122.1669437"><ele>376.3</ele><time>2014-07-13T14:22:53Z</time></trkpt>
+<trkpt lat="37.8109790" lon="-122.1667804"><ele>375.3</ele><time>2014-07-13T14:22:58Z</time></trkpt>
+<trkpt lat="37.8110101" lon="-122.1666104"><ele>374.0</ele><time>2014-07-13T14:23:06Z</time></trkpt>
+<trkpt lat="37.8110903" lon="-122.1664709"><ele>373.4</ele><time>2014-07-13T14:23:11Z</time></trkpt>
+<trkpt lat="37.8112336" lon="-122.1664070"><ele>372.8</ele><time>2014-07-13T14:23:16Z</time></trkpt>
+<trkpt lat="37.8113799" lon="-122.1663610"><ele>372.4</ele><time>2014-07-13T14:23:20Z</time></trkpt>
+<trkpt lat="37.8115083" lon="-122.1662868"><ele>371.8</ele><time>2014-07-13T14:23:25Z</time></trkpt>
+<trkpt lat="37.8114675" lon="-122.1660933"><ele>370.6</ele><time>2014-07-13T14:23:35Z</time></trkpt>
+<trkpt lat="37.8114308" lon="-122.1659873"><ele>369.8</ele><time>2014-07-13T14:23:50Z</time></trkpt>
+<trkpt lat="37.8113153" lon="-122.1658773"><ele>369.4</ele><time>2014-07-13T14:23:57Z</time></trkpt>
+<trkpt lat="37.8112773" lon="-122.1656843"><ele>369.1</ele><time>2014-07-13T14:24:04Z</time></trkpt>
+<trkpt lat="37.8112434" lon="-122.1655159"><ele>368.9</ele><time>2014-07-13T14:24:08Z</time></trkpt>
+<trkpt lat="37.8111123" lon="-122.1653782"><ele>368.7</ele><time>2014-07-13T14:24:12Z</time></trkpt>
+<trkpt lat="37.8109705" lon="-122.1653132"><ele>368.5</ele><time>2014-07-13T14:24:16Z</time></trkpt>
+<trkpt lat="37.8108369" lon="-122.1652207"><ele>368.3</ele><time>2014-07-13T14:24:21Z</time></trkpt>
+<trkpt lat="37.8107191" lon="-122.1650900"><ele>368.0</ele><time>2014-07-13T14:24:27Z</time></trkpt>
+<trkpt lat="37.8106685" lon="-122.1649096"><ele>367.8</ele><time>2014-07-13T14:24:33Z</time></trkpt>
+<trkpt lat="37.8105978" lon="-122.1647240"><ele>367.5</ele><time>2014-07-13T14:24:39Z</time></trkpt>
+<trkpt lat="37.8105456" lon="-122.1645617"><ele>367.3</ele><time>2014-07-13T14:24:44Z</time></trkpt>
+<trkpt lat="37.8104646" lon="-122.1643883"><ele>366.0</ele><time>2014-07-13T14:24:50Z</time></trkpt>
+<trkpt lat="37.8104275" lon="-122.1642153"><ele>364.7</ele><time>2014-07-13T14:24:55Z</time></trkpt>
+<trkpt lat="37.8103655" lon="-122.1640361"><ele>363.2</ele><time>2014-07-13T14:25:01Z</time></trkpt>
+<trkpt lat="37.8103140" lon="-122.1638470"><ele>363.7</ele><time>2014-07-13T14:25:07Z</time></trkpt>
+<trkpt lat="37.8102586" lon="-122.1636682"><ele>364.7</ele><time>2014-07-13T14:25:13Z</time></trkpt>
+<trkpt lat="37.8101767" lon="-122.1635251"><ele>365.5</ele><time>2014-07-13T14:25:18Z</time></trkpt>
+<trkpt lat="37.8101085" lon="-122.1633599"><ele>366.4</ele><time>2014-07-13T14:25:24Z</time></trkpt>
+<trkpt lat="37.8100610" lon="-122.1631672"><ele>367.3</ele><time>2014-07-13T14:25:30Z</time></trkpt>
+<trkpt lat="37.8099928" lon="-122.1629855"><ele>366.2</ele><time>2014-07-13T14:25:36Z</time></trkpt>
+<trkpt lat="37.8099142" lon="-122.1628463"><ele>364.3</ele><time>2014-07-13T14:25:41Z</time></trkpt>
+<trkpt lat="37.8098304" lon="-122.1626944"><ele>364.5</ele><time>2014-07-13T14:25:48Z</time></trkpt>
+<trkpt lat="37.8097188" lon="-122.1625662"><ele>365.7</ele><time>2014-07-13T14:26:10Z</time></trkpt>
+<trkpt lat="37.8096090" lon="-122.1624206"><ele>364.3</ele><time>2014-07-13T14:26:27Z</time></trkpt>
+<trkpt lat="37.8095064" lon="-122.1622806"><ele>364.7</ele><time>2014-07-13T14:26:32Z</time></trkpt>
+<trkpt lat="37.8093875" lon="-122.1621371"><ele>365.0</ele><time>2014-07-13T14:26:37Z</time></trkpt>
+<trkpt lat="37.8092761" lon="-122.1620372"><ele>365.3</ele><time>2014-07-13T14:26:41Z</time></trkpt>
+<trkpt lat="37.8091755" lon="-122.1619146"><ele>365.6</ele><time>2014-07-13T14:26:45Z</time></trkpt>
+<trkpt lat="37.8090685" lon="-122.1617663"><ele>365.9</ele><time>2014-07-13T14:26:50Z</time></trkpt>
+<trkpt lat="37.8089597" lon="-122.1616143"><ele>366.3</ele><time>2014-07-13T14:26:56Z</time></trkpt>
+<trkpt lat="37.8088263" lon="-122.1615377"><ele>366.7</ele><time>2014-07-13T14:27:01Z</time></trkpt>
+<trkpt lat="37.8086779" lon="-122.1614528"><ele>367.1</ele><time>2014-07-13T14:27:06Z</time></trkpt>
+<trkpt lat="37.8085618" lon="-122.1613315"><ele>367.4</ele><time>2014-07-13T14:27:11Z</time></trkpt>
+<trkpt lat="37.8084435" lon="-122.1611653"><ele>367.7</ele><time>2014-07-13T14:27:16Z</time></trkpt>
+<trkpt lat="37.8083372" lon="-122.1610515"><ele>368.2</ele><time>2014-07-13T14:27:22Z</time></trkpt>
+<trkpt lat="37.8082294" lon="-122.1609429"><ele>368.0</ele><time>2014-07-13T14:27:27Z</time></trkpt>
+<trkpt lat="37.8081164" lon="-122.1608370"><ele>367.2</ele><time>2014-07-13T14:27:32Z</time></trkpt>
+<trkpt lat="37.8080309" lon="-122.1606980"><ele>366.3</ele><time>2014-07-13T14:27:37Z</time></trkpt>
+<trkpt lat="37.8079962" lon="-122.1605197"><ele>365.4</ele><time>2014-07-13T14:27:42Z</time></trkpt>
+<trkpt lat="37.8079928" lon="-122.1603409"><ele>364.6</ele><time>2014-07-13T14:27:47Z</time></trkpt>
+<trkpt lat="37.8080065" lon="-122.1601510"><ele>363.5</ele><time>2014-07-13T14:27:53Z</time></trkpt>
+<trkpt lat="37.8079888" lon="-122.1600294"><ele>362.6</ele><time>2014-07-13T14:27:58Z</time></trkpt>
+<trkpt lat="37.8078911" lon="-122.1598982"><ele>362.1</ele><time>2014-07-13T14:28:03Z</time></trkpt>
+<trkpt lat="37.8078367" lon="-122.1597193"><ele>361.4</ele><time>2014-07-13T14:28:08Z</time></trkpt>
+<trkpt lat="37.8078282" lon="-122.1596133"><ele>361.0</ele><time>2014-07-13T14:28:11Z</time></trkpt>
+<trkpt lat="37.8078602" lon="-122.1594352"><ele>360.4</ele><time>2014-07-13T14:28:16Z</time></trkpt>
+<trkpt lat="37.8078637" lon="-122.1592583"><ele>359.7</ele><time>2014-07-13T14:28:21Z</time></trkpt>
+<trkpt lat="37.8078489" lon="-122.1590687"><ele>359.1</ele><time>2014-07-13T14:28:26Z</time></trkpt>
+<trkpt lat="37.8077430" lon="-122.1589548"><ele>357.7</ele><time>2014-07-13T14:28:31Z</time></trkpt>
+<trkpt lat="37.8076555" lon="-122.1587946"><ele>355.4</ele><time>2014-07-13T14:28:39Z</time></trkpt>
+<trkpt lat="37.8075857" lon="-122.1586443"><ele>353.7</ele><time>2014-07-13T14:28:45Z</time></trkpt>
+<trkpt lat="37.8074833" lon="-122.1585251"><ele>352.5</ele><time>2014-07-13T14:28:50Z</time></trkpt>
+<trkpt lat="37.8073878" lon="-122.1583672"><ele>351.9</ele><time>2014-07-13T14:28:56Z</time></trkpt>
+<trkpt lat="37.8072512" lon="-122.1582812"><ele>351.4</ele><time>2014-07-13T14:29:01Z</time></trkpt>
+<trkpt lat="37.8071257" lon="-122.1581710"><ele>351.0</ele><time>2014-07-13T14:29:06Z</time></trkpt>
+<trkpt lat="37.8070149" lon="-122.1580369"><ele>350.4</ele><time>2014-07-13T14:29:12Z</time></trkpt>
+<trkpt lat="37.8069187" lon="-122.1578961"><ele>349.9</ele><time>2014-07-13T14:29:17Z</time></trkpt>
+<trkpt lat="37.8068126" lon="-122.1577163"><ele>349.4</ele><time>2014-07-13T14:29:22Z</time></trkpt>
+<trkpt lat="37.8067460" lon="-122.1575486"><ele>350.1</ele><time>2014-07-13T14:29:26Z</time></trkpt>
+<trkpt lat="37.8066599" lon="-122.1573728"><ele>350.4</ele><time>2014-07-13T14:29:31Z</time></trkpt>
+<trkpt lat="37.8065877" lon="-122.1573321"><ele>349.7</ele><time>2014-07-13T14:29:34Z</time></trkpt>
+<trkpt lat="37.8065326" lon="-122.1571474"><ele>348.2</ele><time>2014-07-13T14:29:40Z</time></trkpt>
+<trkpt lat="37.8064813" lon="-122.1569838"><ele>343.9</ele><time>2014-07-13T14:29:48Z</time></trkpt>
+<trkpt lat="37.8064391" lon="-122.1567988"><ele>342.7</ele><time>2014-07-13T14:29:54Z</time></trkpt>
+<trkpt lat="37.8063610" lon="-122.1566306"><ele>342.5</ele><time>2014-07-13T14:29:59Z</time></trkpt>
+<trkpt lat="37.8063262" lon="-122.1564629"><ele>342.4</ele><time>2014-07-13T14:30:04Z</time></trkpt>
+<trkpt lat="37.8062576" lon="-122.1563067"><ele>342.2</ele><time>2014-07-13T14:30:09Z</time></trkpt>
+<trkpt lat="37.8061788" lon="-122.1561549"><ele>342.1</ele><time>2014-07-13T14:30:14Z</time></trkpt>
+<trkpt lat="37.8060780" lon="-122.1559965"><ele>341.9</ele><time>2014-07-13T14:30:19Z</time></trkpt>
+<trkpt lat="37.8059795" lon="-122.1558617"><ele>341.4</ele><time>2014-07-13T14:30:25Z</time></trkpt>
+<trkpt lat="37.8059207" lon="-122.1558413"><ele>341.1</ele><time>2014-07-13T14:30:37Z</time></trkpt>
+<trkpt lat="37.8059325" lon="-122.1557274"><ele>341.4</ele><time>2014-07-13T14:30:42Z</time></trkpt>
+<trkpt lat="37.8059219" lon="-122.1557989"><ele>341.7</ele><time>2014-07-13T14:30:45Z</time></trkpt>
+<trkpt lat="37.8058768" lon="-122.1557621"><ele>343.4</ele><time>2014-07-13T14:30:59Z</time></trkpt>
+<trkpt lat="37.8058848" lon="-122.1557214"><ele>344.5</ele><time>2014-07-13T14:31:09Z</time></trkpt>
+<trkpt lat="37.8058937" lon="-122.1557867"><ele>342.7</ele><time>2014-07-13T14:31:37Z</time></trkpt>
+<trkpt lat="37.8058789" lon="-122.1557773"><ele>342.5</ele><time>2014-07-13T14:31:39Z</time></trkpt>
+<trkpt lat="37.8059107" lon="-122.1557507"><ele>339.7</ele><time>2014-07-13T14:32:19Z</time></trkpt>
+<trkpt lat="37.8059632" lon="-122.1559358"><ele>338.1</ele><time>2014-07-13T14:32:43Z</time></trkpt>
+<trkpt lat="37.8059557" lon="-122.1561218"><ele>337.7</ele><time>2014-07-13T14:32:47Z</time></trkpt>
+<trkpt lat="37.8059103" lon="-122.1562998"><ele>337.2</ele><time>2014-07-13T14:32:51Z</time></trkpt>
+<trkpt lat="37.8058553" lon="-122.1564675"><ele>336.7</ele><time>2014-07-13T14:32:55Z</time></trkpt>
+<trkpt lat="37.8058356" lon="-122.1566746"><ele>336.0</ele><time>2014-07-13T14:33:00Z</time></trkpt>
+<trkpt lat="37.8058679" lon="-122.1568735"><ele>335.4</ele><time>2014-07-13T14:33:05Z</time></trkpt>
+<trkpt lat="37.8058952" lon="-122.1570413"><ele>335.6</ele><time>2014-07-13T14:33:09Z</time></trkpt>
+<trkpt lat="37.8059605" lon="-122.1572045"><ele>336.7</ele><time>2014-07-13T14:33:13Z</time></trkpt>
+<trkpt lat="37.8060308" lon="-122.1573659"><ele>335.4</ele><time>2014-07-13T14:33:18Z</time></trkpt>
+<trkpt lat="37.8060143" lon="-122.1576021"><ele>333.6</ele><time>2014-07-13T14:33:25Z</time></trkpt>
+<trkpt lat="37.8060249" lon="-122.1577759"><ele>332.3</ele><time>2014-07-13T14:33:30Z</time></trkpt>
+<trkpt lat="37.8060176" lon="-122.1578875"><ele>331.2</ele><time>2014-07-13T14:33:34Z</time></trkpt>
+<trkpt lat="37.8061064" lon="-122.1580257"><ele>330.0</ele><time>2014-07-13T14:33:38Z</time></trkpt>
+<trkpt lat="37.8062017" lon="-122.1581544"><ele>328.6</ele><time>2014-07-13T14:33:42Z</time></trkpt>
+<trkpt lat="37.8062753" lon="-122.1583402"><ele>327.4</ele><time>2014-07-13T14:33:47Z</time></trkpt>
+<trkpt lat="37.8062262" lon="-122.1585299"><ele>329.8</ele><time>2014-07-13T14:33:53Z</time></trkpt>
+<trkpt lat="37.8061731" lon="-122.1587259"><ele>331.7</ele><time>2014-07-13T14:33:58Z</time></trkpt>
+<trkpt lat="37.8061372" lon="-122.1588965"><ele>333.7</ele><time>2014-07-13T14:34:03Z</time></trkpt>
+<trkpt lat="37.8060761" lon="-122.1590749"><ele>331.8</ele><time>2014-07-13T14:34:09Z</time></trkpt>
+<trkpt lat="37.8059719" lon="-122.1592098"><ele>329.9</ele><time>2014-07-13T14:34:15Z</time></trkpt>
+<trkpt lat="37.8058551" lon="-122.1593073"><ele>328.4</ele><time>2014-07-13T14:34:20Z</time></trkpt>
+<trkpt lat="37.8057456" lon="-122.1594500"><ele>326.8</ele><time>2014-07-13T14:34:25Z</time></trkpt>
+<trkpt lat="37.8057540" lon="-122.1596470"><ele>323.9</ele><time>2014-07-13T14:34:29Z</time></trkpt>
+<trkpt lat="37.8058146" lon="-122.1598277"><ele>319.7</ele><time>2014-07-13T14:34:34Z</time></trkpt>
+<trkpt lat="37.8059198" lon="-122.1599600"><ele>316.9</ele><time>2014-07-13T14:34:39Z</time></trkpt>
+<trkpt lat="37.8059524" lon="-122.1601439"><ele>314.9</ele><time>2014-07-13T14:34:44Z</time></trkpt>
+<trkpt lat="37.8059366" lon="-122.1603468"><ele>313.5</ele><time>2014-07-13T14:34:49Z</time></trkpt>
+<trkpt lat="37.8060148" lon="-122.1605043"><ele>313.0</ele><time>2014-07-13T14:34:54Z</time></trkpt>
+<trkpt lat="37.8061110" lon="-122.1605638"><ele>312.6</ele><time>2014-07-13T14:34:58Z</time></trkpt>
+<trkpt lat="37.8062086" lon="-122.1607068"><ele>309.2</ele><time>2014-07-13T14:35:04Z</time></trkpt>
+<trkpt lat="37.8062804" lon="-122.1608352"><ele>307.1</ele><time>2014-07-13T14:35:09Z</time></trkpt>
+<trkpt lat="37.8062213" lon="-122.1610015"><ele>304.5</ele><time>2014-07-13T14:35:15Z</time></trkpt>
+<trkpt lat="37.8061240" lon="-122.1611301"><ele>303.9</ele><time>2014-07-13T14:35:20Z</time></trkpt>
+<trkpt lat="37.8060333" lon="-122.1612629"><ele>303.7</ele><time>2014-07-13T14:35:25Z</time></trkpt>
+<trkpt lat="37.8059170" lon="-122.1613580"><ele>303.5</ele><time>2014-07-13T14:35:31Z</time></trkpt>
+<trkpt lat="37.8058051" lon="-122.1614631"><ele>303.3</ele><time>2014-07-13T14:35:36Z</time></trkpt>
+<trkpt lat="37.8057108" lon="-122.1616281"><ele>298.1</ele><time>2014-07-13T14:35:42Z</time></trkpt>
+<trkpt lat="37.8056699" lon="-122.1617946"><ele>294.6</ele><time>2014-07-13T14:35:46Z</time></trkpt>
+<trkpt lat="37.8057042" lon="-122.1619719"><ele>290.7</ele><time>2014-07-13T14:35:51Z</time></trkpt>
+<trkpt lat="37.8056790" lon="-122.1621703"><ele>285.2</ele><time>2014-07-13T14:35:57Z</time></trkpt>
+<trkpt lat="37.8056126" lon="-122.1623487"><ele>280.8</ele><time>2014-07-13T14:36:02Z</time></trkpt>
+<trkpt lat="37.8056341" lon="-122.1624613"><ele>277.6</ele><time>2014-07-13T14:36:07Z</time></trkpt>
+<trkpt lat="37.8057491" lon="-122.1625765"><ele>276.5</ele><time>2014-07-13T14:36:10Z</time></trkpt>
+<trkpt lat="37.8058747" lon="-122.1626600"><ele>274.8</ele><time>2014-07-13T14:36:15Z</time></trkpt>
+<trkpt lat="37.8060389" lon="-122.1626958"><ele>271.8</ele><time>2014-07-13T14:36:20Z</time></trkpt>
+<trkpt lat="37.8061335" lon="-122.1627655"><ele>270.6</ele><time>2014-07-13T14:36:23Z</time></trkpt>
+<trkpt lat="37.8061602" lon="-122.1629096"><ele>269.0</ele><time>2014-07-13T14:36:28Z</time></trkpt>
+<trkpt lat="37.8060670" lon="-122.1630373"><ele>267.8</ele><time>2014-07-13T14:36:32Z</time></trkpt>
+<trkpt lat="37.8059473" lon="-122.1631642"><ele>266.1</ele><time>2014-07-13T14:36:37Z</time></trkpt>
+<trkpt lat="37.8058509" lon="-122.1633059"><ele>262.4</ele><time>2014-07-13T14:36:42Z</time></trkpt>
+<trkpt lat="37.8058199" lon="-122.1634891"><ele>258.0</ele><time>2014-07-13T14:36:47Z</time></trkpt>
+<trkpt lat="37.8058694" lon="-122.1636542"><ele>254.9</ele><time>2014-07-13T14:36:52Z</time></trkpt>
+<trkpt lat="37.8059541" lon="-122.1638138"><ele>253.2</ele><time>2014-07-13T14:36:56Z</time></trkpt>
+<trkpt lat="37.8059842" lon="-122.1639875"><ele>250.7</ele><time>2014-07-13T14:37:02Z</time></trkpt>
+<trkpt lat="37.8059917" lon="-122.1641852"><ele>249.2</ele><time>2014-07-13T14:37:08Z</time></trkpt>
+<trkpt lat="37.8060800" lon="-122.1643404"><ele>249.8</ele><time>2014-07-13T14:37:13Z</time></trkpt>
+<trkpt lat="37.8062108" lon="-122.1643961"><ele>250.5</ele><time>2014-07-13T14:37:19Z</time></trkpt>
+<trkpt lat="37.8063430" lon="-122.1645271"><ele>251.2</ele><time>2014-07-13T14:37:25Z</time></trkpt>
+<trkpt lat="37.8063162" lon="-122.1645797"><ele>249.5</ele><time>2014-07-13T14:37:46Z</time></trkpt>
+<trkpt lat="37.8061861" lon="-122.1644485"><ele>245.9</ele><time>2014-07-13T14:37:56Z</time></trkpt>
+<trkpt lat="37.8061404" lon="-122.1642611"><ele>244.0</ele><time>2014-07-13T14:38:04Z</time></trkpt>
+<trkpt lat="37.8061460" lon="-122.1641928"><ele>244.5</ele><time>2014-07-13T14:38:22Z</time></trkpt>
+<trkpt lat="37.8062831" lon="-122.1641560"><ele>244.5</ele><time>2014-07-13T14:38:41Z</time></trkpt>
+<trkpt lat="37.8064278" lon="-122.1641470"><ele>247.0</ele><time>2014-07-13T14:38:52Z</time></trkpt>
+<trkpt lat="37.8065538" lon="-122.1640735"><ele>255.3</ele><time>2014-07-13T14:39:05Z</time></trkpt>
+<trkpt lat="37.8066996" lon="-122.1640452"><ele>259.6</ele><time>2014-07-13T14:39:14Z</time></trkpt>
+<trkpt lat="37.8068343" lon="-122.1639851"><ele>261.9</ele><time>2014-07-13T14:39:21Z</time></trkpt>
+<trkpt lat="37.8069579" lon="-122.1639090"><ele>268.3</ele><time>2014-07-13T14:39:40Z</time></trkpt>
+<trkpt lat="37.8070361" lon="-122.1640488"><ele>270.5</ele><time>2014-07-13T14:39:47Z</time></trkpt>
+<trkpt lat="37.8071852" lon="-122.1641215"><ele>272.3</ele><time>2014-07-13T14:39:53Z</time></trkpt>
+<trkpt lat="37.8072354" lon="-122.1642102"><ele>270.4</ele><time>2014-07-13T14:39:56Z</time></trkpt>
+<trkpt lat="37.8072227" lon="-122.1643202"><ele>269.6</ele><time>2014-07-13T14:40:00Z</time></trkpt>
+<trkpt lat="37.8073615" lon="-122.1643390"><ele>272.8</ele><time>2014-07-13T14:40:11Z</time></trkpt>
+<trkpt lat="37.8074890" lon="-122.1644364"><ele>272.8</ele><time>2014-07-13T14:40:25Z</time></trkpt>
+<trkpt lat="37.8075945" lon="-122.1645684"><ele>272.6</ele><time>2014-07-13T14:40:31Z</time></trkpt>
+<trkpt lat="37.8075207" lon="-122.1647369"><ele>273.2</ele><time>2014-07-13T14:40:36Z</time></trkpt>
+<trkpt lat="37.8074098" lon="-122.1648773"><ele>274.5</ele><time>2014-07-13T14:40:42Z</time></trkpt>
+<trkpt lat="37.8072865" lon="-122.1650044"><ele>282.2</ele><time>2014-07-13T14:41:04Z</time></trkpt>
+<trkpt lat="37.8071804" lon="-122.1651551"><ele>286.0</ele><time>2014-07-13T14:41:22Z</time></trkpt>
+<trkpt lat="37.8071125" lon="-122.1653101"><ele>288.7</ele><time>2014-07-13T14:41:30Z</time></trkpt>
+<trkpt lat="37.8071232" lon="-122.1654809"><ele>286.5</ele><time>2014-07-13T14:41:40Z</time></trkpt>
+<trkpt lat="37.8072170" lon="-122.1656113"><ele>287.3</ele><time>2014-07-13T14:42:00Z</time></trkpt>
+<trkpt lat="37.8072689" lon="-122.1657086"><ele>288.7</ele><time>2014-07-13T14:42:17Z</time></trkpt>
+<trkpt lat="37.8072214" lon="-122.1657614"><ele>289.6</ele><time>2014-07-13T14:42:29Z</time></trkpt>
+<trkpt lat="37.8072494" lon="-122.1658383"><ele>290.5</ele><time>2014-07-13T14:42:56Z</time></trkpt>
+<trkpt lat="37.8073938" lon="-122.1658459"><ele>289.0</ele><time>2014-07-13T14:43:02Z</time></trkpt>
+<trkpt lat="37.8075469" lon="-122.1658164"><ele>288.0</ele><time>2014-07-13T14:43:06Z</time></trkpt>
+<trkpt lat="37.8076885" lon="-122.1657870"><ele>286.3</ele><time>2014-07-13T14:43:10Z</time></trkpt>
+<trkpt lat="37.8078276" lon="-122.1657812"><ele>284.6</ele><time>2014-07-13T14:43:13Z</time></trkpt>
+<trkpt lat="37.8079600" lon="-122.1657439"><ele>282.9</ele><time>2014-07-13T14:43:16Z</time></trkpt>
+<trkpt lat="37.8081244" lon="-122.1657523"><ele>282.8</ele><time>2014-07-13T14:43:21Z</time></trkpt>
+<trkpt lat="37.8082662" lon="-122.1658071"><ele>282.6</ele><time>2014-07-13T14:43:26Z</time></trkpt>
+<trkpt lat="37.8083605" lon="-122.1658382"><ele>281.4</ele><time>2014-07-13T14:43:32Z</time></trkpt>
+<trkpt lat="37.8082700" lon="-122.1659845"><ele>283.2</ele><time>2014-07-13T14:43:39Z</time></trkpt>
+<trkpt lat="37.8081849" lon="-122.1661243"><ele>279.0</ele><time>2014-07-13T14:43:52Z</time></trkpt>
+<trkpt lat="37.8081545" lon="-122.1663439"><ele>273.7</ele><time>2014-07-13T14:44:05Z</time></trkpt>
+<trkpt lat="37.8081474" lon="-122.1665652"><ele>273.1</ele><time>2014-07-13T14:44:09Z</time></trkpt>
+<trkpt lat="37.8081528" lon="-122.1666509"><ele>275.6</ele><time>2014-07-13T14:44:13Z</time></trkpt>
+<trkpt lat="37.8082938" lon="-122.1667238"><ele>275.3</ele><time>2014-07-13T14:44:19Z</time></trkpt>
+<trkpt lat="37.8084275" lon="-122.1668146"><ele>274.6</ele><time>2014-07-13T14:44:25Z</time></trkpt>
+<trkpt lat="37.8085722" lon="-122.1669322"><ele>273.9</ele><time>2014-07-13T14:44:31Z</time></trkpt>
+<trkpt lat="37.8086824" lon="-122.1670339"><ele>272.1</ele><time>2014-07-13T14:44:38Z</time></trkpt>
+<trkpt lat="37.8088173" lon="-122.1670918"><ele>270.7</ele><time>2014-07-13T14:44:42Z</time></trkpt>
+<trkpt lat="37.8088809" lon="-122.1671845"><ele>269.6</ele><time>2014-07-13T14:44:45Z</time></trkpt>
+<trkpt lat="37.8088902" lon="-122.1673580"><ele>270.2</ele><time>2014-07-13T14:44:54Z</time></trkpt>
+<trkpt lat="37.8089968" lon="-122.1674866"><ele>276.5</ele><time>2014-07-13T14:45:08Z</time></trkpt>
+<trkpt lat="37.8090568" lon="-122.1676745"><ele>279.1</ele><time>2014-07-13T14:45:15Z</time></trkpt>
+<trkpt lat="37.8091187" lon="-122.1678500"><ele>280.7</ele><time>2014-07-13T14:45:20Z</time></trkpt>
+<trkpt lat="37.8092076" lon="-122.1679873"><ele>280.6</ele><time>2014-07-13T14:45:23Z</time></trkpt>
+<trkpt lat="37.8091986" lon="-122.1680210"><ele>280.4</ele><time>2014-07-13T14:45:25Z</time></trkpt>
+<trkpt lat="37.8090548" lon="-122.1679663"><ele>280.1</ele><time>2014-07-13T14:45:31Z</time></trkpt>
+<trkpt lat="37.8089235" lon="-122.1678741"><ele>281.5</ele><time>2014-07-13T14:45:38Z</time></trkpt>
+<trkpt lat="37.8087939" lon="-122.1678096"><ele>284.0</ele><time>2014-07-13T14:45:50Z</time></trkpt>
+<trkpt lat="37.8086540" lon="-122.1677916"><ele>288.9</ele><time>2014-07-13T14:46:05Z</time></trkpt>
+<trkpt lat="37.8085150" lon="-122.1678024"><ele>287.2</ele><time>2014-07-13T14:46:11Z</time></trkpt>
+<trkpt lat="37.8083915" lon="-122.1678822"><ele>286.2</ele><time>2014-07-13T14:46:15Z</time></trkpt>
+<trkpt lat="37.8082495" lon="-122.1679180"><ele>285.0</ele><time>2014-07-13T14:46:19Z</time></trkpt>
+<trkpt lat="37.8081646" lon="-122.1679854"><ele>284.1</ele><time>2014-07-13T14:46:22Z</time></trkpt>
+<trkpt lat="37.8080405" lon="-122.1679128"><ele>282.5</ele><time>2014-07-13T14:46:27Z</time></trkpt>
+<trkpt lat="37.8079065" lon="-122.1678398"><ele>285.8</ele><time>2014-07-13T14:46:33Z</time></trkpt>
+<trkpt lat="37.8077507" lon="-122.1678714"><ele>289.0</ele><time>2014-07-13T14:46:39Z</time></trkpt>
+<trkpt lat="37.8076388" lon="-122.1680082"><ele>290.0</ele><time>2014-07-13T14:46:47Z</time></trkpt>
+<trkpt lat="37.8075085" lon="-122.1680988"><ele>291.7</ele><time>2014-07-13T14:46:57Z</time></trkpt>
+<trkpt lat="37.8074174" lon="-122.1682059"><ele>293.5</ele><time>2014-07-13T14:47:14Z</time></trkpt>
+<trkpt lat="37.8074467" lon="-122.1682984"><ele>298.0</ele><time>2014-07-13T14:47:26Z</time></trkpt>
+<trkpt lat="37.8073171" lon="-122.1683786"><ele>302.8</ele><time>2014-07-13T14:47:43Z</time></trkpt>
+<trkpt lat="37.8072999" lon="-122.1685625"><ele>305.4</ele><time>2014-07-13T14:47:57Z</time></trkpt>
+<trkpt lat="37.8072973" lon="-122.1687340"><ele>308.0</ele><time>2014-07-13T14:48:09Z</time></trkpt>
+<trkpt lat="37.8072508" lon="-122.1689014"><ele>312.2</ele><time>2014-07-13T14:48:21Z</time></trkpt>
+<trkpt lat="37.8072385" lon="-122.1690713"><ele>312.8</ele><time>2014-07-13T14:48:26Z</time></trkpt>
+<trkpt lat="37.8072388" lon="-122.1692419"><ele>312.6</ele><time>2014-07-13T14:48:32Z</time></trkpt>
+<trkpt lat="37.8073686" lon="-122.1693425"><ele>311.2</ele><time>2014-07-13T14:48:48Z</time></trkpt>
+<trkpt lat="37.8074976" lon="-122.1694031"><ele>311.9</ele><time>2014-07-13T14:48:53Z</time></trkpt>
+<trkpt lat="37.8076333" lon="-122.1694276"><ele>312.5</ele><time>2014-07-13T14:48:58Z</time></trkpt>
+<trkpt lat="37.8077452" lon="-122.1695567"><ele>313.1</ele><time>2014-07-13T14:49:03Z</time></trkpt>
+<trkpt lat="37.8078314" lon="-122.1696968"><ele>313.8</ele><time>2014-07-13T14:49:08Z</time></trkpt>
+<trkpt lat="37.8078579" lon="-122.1698731"><ele>316.5</ele><time>2014-07-13T14:49:17Z</time></trkpt>
+<trkpt lat="37.8078599" lon="-122.1700553"><ele>319.2</ele><time>2014-07-13T14:49:25Z</time></trkpt>
+<trkpt lat="37.8079728" lon="-122.1701718"><ele>321.0</ele><time>2014-07-13T14:49:32Z</time></trkpt>
+<trkpt lat="37.8080060" lon="-122.1703461"><ele>322.9</ele><time>2014-07-13T14:49:38Z</time></trkpt>
+<trkpt lat="37.8079120" lon="-122.1704759"><ele>326.0</ele><time>2014-07-13T14:49:46Z</time></trkpt>
+<trkpt lat="37.8078503" lon="-122.1706419"><ele>322.4</ele><time>2014-07-13T14:49:53Z</time></trkpt>
+<trkpt lat="37.8078427" lon="-122.1708223"><ele>319.9</ele><time>2014-07-13T14:50:00Z</time></trkpt>
+<trkpt lat="37.8079075" lon="-122.1709806"><ele>318.1</ele><time>2014-07-13T14:50:06Z</time></trkpt>
+<trkpt lat="37.8079340" lon="-122.1710970"><ele>317.3</ele><time>2014-07-13T14:50:10Z</time></trkpt>
+<trkpt lat="37.8077390" lon="-122.1710180"><ele>315.4</ele><time>2014-07-13T14:50:19Z</time></trkpt>
+<trkpt lat="37.8075968" lon="-122.1708904"><ele>316.0</ele><time>2014-07-13T14:50:24Z</time></trkpt>
+<trkpt lat="37.8074551" lon="-122.1708379"><ele>317.0</ele><time>2014-07-13T14:50:29Z</time></trkpt>
+<trkpt lat="37.8073121" lon="-122.1707805"><ele>318.1</ele><time>2014-07-13T14:50:35Z</time></trkpt>
+<trkpt lat="37.8071843" lon="-122.1707043"><ele>319.1</ele><time>2014-07-13T14:50:40Z</time></trkpt>
+<trkpt lat="37.8070488" lon="-122.1706609"><ele>318.4</ele><time>2014-07-13T14:50:47Z</time></trkpt>
+<trkpt lat="37.8068939" lon="-122.1706733"><ele>320.2</ele><time>2014-07-13T14:50:53Z</time></trkpt>
+<trkpt lat="37.8067549" lon="-122.1707087"><ele>317.1</ele><time>2014-07-13T14:50:58Z</time></trkpt>
+<trkpt lat="37.8066066" lon="-122.1707106"><ele>320.6</ele><time>2014-07-13T14:51:03Z</time></trkpt>
+<trkpt lat="37.8064736" lon="-122.1707520"><ele>320.9</ele><time>2014-07-13T14:51:08Z</time></trkpt>
+<trkpt lat="37.8063368" lon="-122.1708393"><ele>320.2</ele><time>2014-07-13T14:51:15Z</time></trkpt>
+<trkpt lat="37.8062677" lon="-122.1709451"><ele>319.8</ele><time>2014-07-13T14:51:20Z</time></trkpt>
+<trkpt lat="37.8062588" lon="-122.1711664"><ele>319.2</ele><time>2014-07-13T14:51:26Z</time></trkpt>
+<trkpt lat="37.8061803" lon="-122.1712463"><ele>318.7</ele><time>2014-07-13T14:51:31Z</time></trkpt>
+<trkpt lat="37.8060423" lon="-122.1712209"><ele>318.2</ele><time>2014-07-13T14:51:36Z</time></trkpt>
+<trkpt lat="37.8058824" lon="-122.1713363"><ele>316.7</ele><time>2014-07-13T14:51:42Z</time></trkpt>
+<trkpt lat="37.8057895" lon="-122.1714696"><ele>315.5</ele><time>2014-07-13T14:51:47Z</time></trkpt>
+<trkpt lat="37.8057665" lon="-122.1716419"><ele>314.0</ele><time>2014-07-13T14:51:53Z</time></trkpt>
+<trkpt lat="37.8057418" lon="-122.1717564"><ele>313.3</ele><time>2014-07-13T14:51:57Z</time></trkpt>
+<trkpt lat="37.8056100" lon="-122.1718072"><ele>312.6</ele><time>2014-07-13T14:52:01Z</time></trkpt>
+<trkpt lat="37.8054636" lon="-122.1718263"><ele>311.8</ele><time>2014-07-13T14:52:05Z</time></trkpt>
+<trkpt lat="37.8053220" lon="-122.1718995"><ele>310.9</ele><time>2014-07-13T14:52:10Z</time></trkpt>
+<trkpt lat="37.8052174" lon="-122.1720194"><ele>310.9</ele><time>2014-07-13T14:52:15Z</time></trkpt>
+<trkpt lat="37.8051905" lon="-122.1721932"><ele>314.2</ele><time>2014-07-13T14:52:20Z</time></trkpt>
+<trkpt lat="37.8051864" lon="-122.1723739"><ele>317.3</ele><time>2014-07-13T14:52:26Z</time></trkpt>
+<trkpt lat="37.8052044" lon="-122.1725576"><ele>312.3</ele><time>2014-07-13T14:52:35Z</time></trkpt>
+<trkpt lat="37.8052844" lon="-122.1727055"><ele>310.1</ele><time>2014-07-13T14:52:41Z</time></trkpt>
+<trkpt lat="37.8054170" lon="-122.1727749"><ele>311.7</ele><time>2014-07-13T14:52:45Z</time></trkpt>
+<trkpt lat="37.8054478" lon="-122.1728383"><ele>312.9</ele><time>2014-07-13T14:52:47Z</time></trkpt>
+<trkpt lat="37.8053207" lon="-122.1729489"><ele>312.7</ele><time>2014-07-13T14:52:51Z</time></trkpt>
+<trkpt lat="37.8052002" lon="-122.1730417"><ele>311.7</ele><time>2014-07-13T14:52:55Z</time></trkpt>
+<trkpt lat="37.8050992" lon="-122.1731837"><ele>310.5</ele><time>2014-07-13T14:52:59Z</time></trkpt>
+<trkpt lat="37.8049813" lon="-122.1733256"><ele>308.9</ele><time>2014-07-13T14:53:04Z</time></trkpt>
+<trkpt lat="37.8049228" lon="-122.1734918"><ele>307.4</ele><time>2014-07-13T14:53:09Z</time></trkpt>
+<trkpt lat="37.8048770" lon="-122.1736675"><ele>302.6</ele><time>2014-07-13T14:53:15Z</time></trkpt>
+<trkpt lat="37.8048102" lon="-122.1736225"><ele>297.7</ele><time>2014-07-13T14:53:21Z</time></trkpt>
+<trkpt lat="37.8047436" lon="-122.1735472"><ele>295.7</ele><time>2014-07-13T14:53:25Z</time></trkpt>
+<trkpt lat="37.8046868" lon="-122.1737130"><ele>293.2</ele><time>2014-07-13T14:53:30Z</time></trkpt>
+<trkpt lat="37.8046565" lon="-122.1738898"><ele>292.5</ele><time>2014-07-13T14:53:35Z</time></trkpt>
+<trkpt lat="37.8046328" lon="-122.1740884"><ele>293.1</ele><time>2014-07-13T14:53:40Z</time></trkpt>
+<trkpt lat="37.8045955" lon="-122.1742613"><ele>293.9</ele><time>2014-07-13T14:53:46Z</time></trkpt>
+<trkpt lat="37.8045265" lon="-122.1744232"><ele>294.5</ele><time>2014-07-13T14:53:51Z</time></trkpt>
+<trkpt lat="37.8044857" lon="-122.1745871"><ele>295.0</ele><time>2014-07-13T14:53:55Z</time></trkpt>
+<trkpt lat="37.8044439" lon="-122.1748121"><ele>296.7</ele><time>2014-07-13T14:54:01Z</time></trkpt>
+<trkpt lat="37.8043955" lon="-122.1748825"><ele>296.9</ele><time>2014-07-13T14:54:04Z</time></trkpt>
+<trkpt lat="37.8043572" lon="-122.1747101"><ele>296.7</ele><time>2014-07-13T14:54:11Z</time></trkpt>
+<trkpt lat="37.8042595" lon="-122.1745696"><ele>297.9</ele><time>2014-07-13T14:54:22Z</time></trkpt>
+<trkpt lat="37.8042438" lon="-122.1743820"><ele>299.3</ele><time>2014-07-13T14:54:32Z</time></trkpt>
+<trkpt lat="37.8042750" lon="-122.1742077"><ele>299.9</ele><time>2014-07-13T14:54:36Z</time></trkpt>
+<trkpt lat="37.8042432" lon="-122.1740409"><ele>300.6</ele><time>2014-07-13T14:54:41Z</time></trkpt>
+<trkpt lat="37.8042113" lon="-122.1739640"><ele>301.1</ele><time>2014-07-13T14:54:44Z</time></trkpt>
+<trkpt lat="37.8040437" lon="-122.1739222"><ele>301.6</ele><time>2014-07-13T14:54:49Z</time></trkpt>
+<trkpt lat="37.8039029" lon="-122.1739344"><ele>305.2</ele><time>2014-07-13T14:55:05Z</time></trkpt>
+<trkpt lat="37.8038325" lon="-122.1740917"><ele>309.3</ele><time>2014-07-13T14:55:19Z</time></trkpt>
+<trkpt lat="37.8039252" lon="-122.1742367"><ele>310.5</ele><time>2014-07-13T14:55:25Z</time></trkpt>
+<trkpt lat="37.8039651" lon="-122.1744052"><ele>312.2</ele><time>2014-07-13T14:55:31Z</time></trkpt>
+<trkpt lat="37.8039225" lon="-122.1745810"><ele>313.1</ele><time>2014-07-13T14:55:39Z</time></trkpt>
+<trkpt lat="37.8038458" lon="-122.1747279"><ele>313.5</ele><time>2014-07-13T14:55:46Z</time></trkpt>
+<trkpt lat="37.8037573" lon="-122.1748587"><ele>314.6</ele><time>2014-07-13T14:55:51Z</time></trkpt>
+<trkpt lat="37.8036752" lon="-122.1750168"><ele>315.9</ele><time>2014-07-13T14:55:57Z</time></trkpt>
+<trkpt lat="37.8035782" lon="-122.1751528"><ele>317.4</ele><time>2014-07-13T14:56:04Z</time></trkpt>
+<trkpt lat="37.8034719" lon="-122.1752742"><ele>319.7</ele><time>2014-07-13T14:56:11Z</time></trkpt>
+<trkpt lat="37.8033538" lon="-122.1753866"><ele>322.4</ele><time>2014-07-13T14:56:19Z</time></trkpt>
+<trkpt lat="37.8033669" lon="-122.1755843"><ele>323.1</ele><time>2014-07-13T14:56:25Z</time></trkpt>
+<trkpt lat="37.8033513" lon="-122.1757104"><ele>322.6</ele><time>2014-07-13T14:56:29Z</time></trkpt>
+<trkpt lat="37.8032336" lon="-122.1755908"><ele>322.5</ele><time>2014-07-13T14:56:35Z</time></trkpt>
+<trkpt lat="37.8031435" lon="-122.1755304"><ele>324.5</ele><time>2014-07-13T14:56:39Z</time></trkpt>
+<trkpt lat="37.8031325" lon="-122.1757179"><ele>326.5</ele><time>2014-07-13T14:56:45Z</time></trkpt>
+<trkpt lat="37.8031385" lon="-122.1758889"><ele>324.7</ele><time>2014-07-13T14:56:50Z</time></trkpt>
+<trkpt lat="37.8031504" lon="-122.1760614"><ele>327.8</ele><time>2014-07-13T14:56:56Z</time></trkpt>
+<trkpt lat="37.8032072" lon="-122.1762442"><ele>330.4</ele><time>2014-07-13T14:57:01Z</time></trkpt>
+<trkpt lat="37.8033256" lon="-122.1763642"><ele>332.7</ele><time>2014-07-13T14:57:06Z</time></trkpt>
+<trkpt lat="37.8034362" lon="-122.1764944"><ele>333.2</ele><time>2014-07-13T14:57:11Z</time></trkpt>
+<trkpt lat="37.8034370" lon="-122.1765719"><ele>333.3</ele><time>2014-07-13T14:57:20Z</time></trkpt>
+</trkseg>
+</trk>
+<extensions>
+<abvio:xmlVersion>1</abvio:xmlVersion>
+<abvio:appInstanceID>5e3ba2f14c227d4b</abvio:appInstanceID>
+<abvio:runID>442</abvio:runID>
+<abvio:routeID>0</abvio:routeID>
+<abvio:activityName><![CDATA[Run]]></abvio:activityName>
+<abvio:activityTypeID>0</abvio:activityTypeID>
+<abvio:activitySpeedBased>0</abvio:activitySpeedBased>
+<abvio:startTime>2014-07-13 14:02:24.232</abvio:startTime>
+<abvio:startTimeZone>America/Los_Angeles</abvio:startTimeZone>
+<abvio:runTime>3296.280</abvio:runTime>
+<abvio:stoppedTime>0.000</abvio:stoppedTime>
+<abvio:badGPSTime>0.000</abvio:badGPSTime>
+<abvio:distance>7579.3</abvio:distance>
+<abvio:ascent>209.9</abvio:ascent>
+<abvio:descent>221.3</abvio:descent>
+<abvio:calories>533.712</abvio:calories>
+<abvio:maxSpeed>3.6</abvio:maxSpeed>
+<abvio:minPace>0.279</abvio:minPace>
+<abvio:avgHeartRate>0</abvio:avgHeartRate>
+<abvio:maxHeartRate>0</abvio:maxHeartRate>
+<abvio:avgWheelRPM>0</abvio:avgWheelRPM>
+<abvio:maxWheelRPM>0</abvio:maxWheelRPM>
+<abvio:avgCrankRPM>-1</abvio:avgCrankRPM>
+<abvio:maxCrankRPM>-1</abvio:maxCrankRPM>
+<abvio:avgPower>-1</abvio:avgPower>
+<abvio:maxPower>-1</abvio:maxPower>
+<abvio:thresholdPower>0</abvio:thresholdPower>
+<abvio:adjustedPower>-1</abvio:adjustedPower>
+<abvio:powerIntensity>-1.000</abvio:powerIntensity>
+<abvio:powerScore>-1</abvio:powerScore>
+<abvio:peakPower20Sec>-1</abvio:peakPower20Sec>
+<abvio:peakPower1Min>-1</abvio:peakPower1Min>
+<abvio:peakPower5Min>-1</abvio:peakPower5Min>
+<abvio:peakPower20Min>-1</abvio:peakPower20Min>
+<abvio:peakPower1Hr>-1</abvio:peakPower1Hr>
+<abvio:weight>63.5</abvio:weight>
+<abvio:age>28</abvio:age>
+<abvio:genderMale>1</abvio:genderMale>
+<abvio:vo2Max>0.0</abvio:vo2Max>
+<abvio:wheelSize>0.00</abvio:wheelSize>
+<abvio:official>0</abvio:official>
+<abvio:runEditFlags>0</abvio:runEditFlags>
+<abvio:dontLoadRunData>0</abvio:dontLoadRunData>
+<abvio:batteryUsage>0.15</abvio:batteryUsage>
+<abvio:pathOnly>0</abvio:pathOnly>
+<abvio:competitorInitials><![CDATA[AH]]></abvio:competitorInitials>
+<abvio:stopDetection>0</abvio:stopDetection>
+<abvio:caloriesUseElevation>1</abvio:caloriesUseElevation>
+<abvio:notes><![CDATA[]]></abvio:notes>
+<abvio:coordinateHasSpeed>1</abvio:coordinateHasSpeed>
+<abvio:altitudeHasDistanceDelta>0</abvio:altitudeHasDistanceDelta>
+<abvio:altitudeHasClimbSpeed>1</abvio:altitudeHasClimbSpeed>
+<abvio:altitudeHasLongAltitude>1</abvio:altitudeHasLongAltitude>
+<abvio:useIndoors>0</abvio:useIndoors>
+<abvio:bikeID>0</abvio:bikeID>
+<abvio:shoesID>9</abvio:shoesID>
+<abvio:shoesName><![CDATA[Pearl Izumi Trail M2]]></abvio:shoesName>
+<abvio:useSteps>0</abvio:useSteps>
+<abvio:useStepDistance>0</abvio:useStepDistance>
+<abvio:stepLength>-1.000</abvio:stepLength>
+<abvio:steps>-1</abvio:steps>
+<abvio:grossSteps>0</abvio:grossSteps>
+<abvio:maxStepsPM>-1</abvio:maxStepsPM>
+<abvio:avgStepsPM>-1</abvio:avgStepsPM>
+<abvio:minTemperature>-200.0</abvio:minTemperature>
+<abvio:avgTemperature>-200.0</abvio:avgTemperature>
+<abvio:maxTemperature>-200.0</abvio:maxTemperature>
+<abvio:runStateTable>
+0.000,1,0
+3296.280,2,0
+</abvio:runStateTable>
+<abvio:stopDetectionTable>
+0.000,0
+280.454,3
+344.438,2
+1003.384,3
+1052.393,2
+1400.716,3
+1445.729,2
+1675.523,3
+1822.398,2
+2092.466,3
+2139.409,2
+2139.409,3
+2184.394,2
+2293.614,3
+2341.766,2
+2350.452,3
+2440.413,2
+2669.408,3
+2735.413,2
+3146.456,3
+3180.456,2
+3296.280,1
+</abvio:stopDetectionTable>
+<abvio:coordinateTable>
+0.478,37.8034673,-122.1768915,0.0,3.0,2.9
+5.372,37.8034733,-122.1769466,4.9,3.0,2.9
+16.423,37.8036090,-122.1768478,17.4,3.0,2.9
+19.716,37.8036748,-122.1768660,7.5,3.0,2.9
+23.652,37.8037427,-122.1769581,11.1,3.0,2.9
+27.584,37.8038715,-122.1770368,15.9,3.0,2.9
+32.687,37.8039815,-122.1771620,16.5,3.0,2.9
+34.730,37.8039752,-122.1772175,4.9,3.0,2.9
+38.716,37.8038729,-122.1771058,15.0,3.0,2.9
+42.650,37.8037688,-122.1769858,15.7,3.0,2.9
+47.669,37.8036347,-122.1769269,15.8,3.0,2.9
+53.433,37.8035055,-122.1768127,17.5,3.0,2.9
+58.401,37.8034346,-122.1766334,17.6,3.0,2.9
+62.445,37.8033608,-122.1765106,13.6,3.0,2.9
+66.437,37.8033966,-122.1764159,9.2,3.1,2.9
+72.411,37.8032703,-122.1763024,17.2,3.2,2.9
+77.540,37.8031738,-122.1761787,15.3,3.2,2.9
+84.384,37.8031426,-122.1759788,17.9,3.3,2.9
+98.706,37.8031493,-122.1757860,17.0,2.9,2.9
+103.683,37.8031520,-122.1756020,16.2,2.8,2.9
+107.613,37.8031632,-122.1754711,11.6,2.8,2.9
+112.739,37.8032732,-122.1755959,16.4,2.9,2.9
+116.451,37.8033627,-122.1757277,15.3,2.9,2.9
+121.501,37.8034725,-122.1758509,16.3,2.9,2.9
+126.512,37.8035811,-122.1759610,15.5,2.9,3.0
+131.376,37.8037023,-122.1760445,15.3,2.9,3.1
+136.370,37.8038174,-122.1761366,15.1,2.9,3.1
+141.414,37.8039251,-122.1762517,15.7,2.9,3.1
+146.470,37.8040454,-122.1763367,15.3,3.0,3.1
+151.409,37.8041487,-122.1764557,15.5,3.1,3.1
+156.453,37.8042669,-122.1765582,15.9,3.2,3.1
+161.418,37.8043303,-122.1767113,15.2,3.2,3.0
+166.395,37.8042769,-122.1768959,17.3,3.2,3.0
+180.397,37.8043053,-122.1770692,15.6,2.8,2.9
+186.409,37.8043379,-122.1772351,15.1,2.8,2.8
+194.370,37.8043710,-122.1774126,16.1,2.6,2.8
+207.403,37.8044620,-122.1775480,15.6,2.2,2.6
+218.419,37.8045329,-122.1776949,15.1,1.9,2.6
+229.417,37.8045882,-122.1778636,16.1,1.6,2.4
+241.408,37.8046578,-122.1780171,15.6,1.6,2.2
+253.432,37.8047612,-122.1781478,16.3,1.4,2.0
+266.406,37.8049091,-122.1781818,16.7,1.4,1.8
+274.424,37.8050373,-122.1780915,16.3,1.5,1.7
+281.408,37.8051354,-122.1779700,15.3,1.6,1.7
+287.413,37.8051980,-122.1778182,15.1,1.7,1.7
+293.369,37.8052253,-122.1777141,9.7,1.7,1.7
+298.373,37.8052060,-122.1777399,3.1,1.6,1.6
+341.397,37.8053668,-122.1777673,18.0,0.8,1.2
+347.390,37.8055154,-122.1778467,17.9,0.9,1.2
+353.454,37.8056500,-122.1778654,15.0,0.9,1.3
+361.368,37.8058021,-122.1777934,18.0,1.2,1.4
+370.419,37.8058428,-122.1776043,17.3,1.5,1.4
+376.408,37.8058486,-122.1774319,15.2,1.7,1.5
+381.411,37.8058214,-122.1772235,18.6,2.0,1.6
+386.421,37.8057913,-122.1770423,16.3,2.3,1.7
+392.397,37.8058136,-122.1768521,16.9,2.6,1.7
+396.447,37.8058598,-122.1767734,8.6,2.7,1.7
+402.410,37.8060037,-122.1767891,16.0,2.7,1.7
+412.449,37.8061499,-122.1768231,16.5,2.5,1.7
+426.408,37.8062900,-122.1768419,15.6,2.3,1.8
+431.630,37.8064430,-122.1767951,17.5,2.4,2.0
+435.711,37.8065177,-122.1766798,13.1,2.4,2.1
+440.632,37.8064716,-122.1765121,15.6,2.4,2.2
+445.703,37.8063828,-122.1763833,15.0,2.4,2.3
+451.436,37.8063105,-122.1762292,15.8,2.4,2.5
+457.422,37.8062586,-122.1760440,17.3,2.4,2.6
+461.398,37.8062492,-122.1759332,9.8,2.4,2.5
+467.369,37.8063600,-122.1757726,18.7,2.4,2.5
+473.388,37.8064792,-122.1756836,15.4,2.6,2.6
+478.377,37.8065815,-122.1756003,13.5,2.8,2.6
+480.448,37.8065589,-122.1755457,5.4,2.8,2.6
+485.464,37.8064241,-122.1754430,17.5,3.0,2.7
+491.427,37.8062925,-122.1753280,17.8,3.0,2.7
+497.403,37.8062111,-122.1751710,16.5,2.9,2.7
+501.374,37.8062431,-122.1750556,10.8,2.9,2.7
+507.398,37.8063432,-122.1749150,16.6,2.9,2.6
+514.423,37.8064728,-122.1748497,15.5,2.8,2.6
+522.395,37.8066104,-122.1747491,17.7,2.7,2.6
+529.474,37.8067138,-122.1746184,16.3,2.7,2.6
+534.443,37.8067892,-122.1744699,15.5,2.7,2.7
+540.403,37.8069123,-122.1743040,20.0,2.7,2.8
+546.582,37.8070578,-122.1742983,16.2,2.7,2.9
+550.449,37.8071972,-122.1742941,15.5,2.8,2.9
+554.395,37.8073170,-122.1742629,13.6,2.8,2.9
+557.520,37.8073531,-122.1741634,9.6,2.8,2.9
+562.613,37.8072651,-122.1740249,15.6,2.8,2.9
+568.672,37.8071585,-122.1739100,15.6,2.8,2.9
+575.474,37.8070456,-122.1738123,15.2,2.9,2.8
+582.400,37.8069391,-122.1736573,18.1,2.9,2.8
+589.412,37.8068464,-122.1734923,17.8,2.9,2.8
+595.390,37.8067393,-122.1733848,15.2,2.9,2.8
+598.395,37.8066856,-122.1733940,6.0,2.8,2.8
+612.423,37.8066358,-122.1733664,6.0,2.2,2.5
+619.396,37.8065033,-122.1734732,17.5,2.1,2.5
+625.436,37.8063440,-122.1734752,17.7,2.1,2.5
+631.454,37.8062482,-122.1733541,15.1,2.2,2.5
+637.470,37.8061158,-122.1732537,17.2,2.2,2.5
+640.374,37.8060407,-122.1731324,13.5,2.3,2.6
+646.401,37.8060793,-122.1729454,17.0,2.3,2.6
+652.402,37.8061089,-122.1727702,15.8,2.3,2.6
+659.393,37.8061208,-122.1725771,17.1,2.4,2.6
+665.414,37.8061636,-122.1723931,16.9,2.6,2.6
+671.445,37.8062547,-122.1722464,16.4,2.8,2.5
+676.508,37.8063920,-122.1721983,15.8,2.9,2.5
+681.384,37.8065288,-122.1721310,16.3,2.9,2.5
+685.383,37.8065815,-122.1719599,16.2,3.0,2.6
+689.382,37.8066414,-122.1717862,16.7,3.1,2.6
+694.487,37.8066670,-122.1716027,16.4,3.2,2.7
+704.496,37.8066639,-122.1713997,17.9,2.9,2.6
+708.421,37.8066750,-122.1712201,15.9,3.0,2.7
+712.446,37.8067214,-122.1710542,15.5,3.0,2.7
+717.534,37.8068672,-122.1709980,16.9,3.1,2.7
+722.425,37.8070198,-122.1710352,17.3,3.2,2.8
+729.459,37.8071014,-122.1711821,15.8,3.1,3.0
+734.516,37.8071602,-122.1713322,14.7,3.2,3.0
+740.455,37.8073125,-122.1713031,17.1,3.1,3.0
+745.476,37.8074503,-122.1713126,15.3,3.0,3.0
+751.585,37.8075779,-122.1713740,15.2,2.9,3.0
+757.588,37.8077147,-122.1714557,16.8,2.9,3.0
+762.434,37.8078252,-122.1715863,16.8,3.1,3.0
+765.393,37.8079013,-122.1716245,9.1,3.1,3.0
+770.379,37.8080374,-122.1715595,16.2,3.1,3.0
+776.393,37.8080988,-122.1713798,17.2,3.0,3.1
+782.388,37.8081038,-122.1711919,16.6,2.9,3.1
+789.519,37.8080812,-122.1709971,17.3,2.9,3.0
+798.628,37.8080912,-122.1708242,15.3,2.8,3.0
+805.618,37.8081904,-122.1707033,15.3,2.7,2.9
+810.587,37.8082827,-122.1705684,15.7,2.7,2.8
+817.375,37.8083798,-122.1704289,16.3,2.7,2.8
+825.395,37.8083637,-122.1702517,15.7,2.5,2.8
+835.387,37.8082907,-122.1701045,15.3,2.3,2.6
+847.382,37.8082451,-122.1699421,15.2,2.0,2.4
+860.379,37.8081858,-122.1697843,15.4,1.8,2.3
+873.398,37.8081839,-122.1695994,16.3,1.5,2.1
+880.393,37.8082008,-122.1694254,15.4,1.5,2.1
+885.430,37.8082856,-122.1692890,15.3,1.6,2.1
+890.392,37.8084017,-122.1691605,17.1,1.7,2.1
+895.642,37.8085328,-122.1691187,15.0,1.9,2.1
+901.395,37.8086743,-122.1691851,16.8,2.0,2.1
+907.387,37.8088250,-122.1692508,17.7,2.2,2.1
+913.381,37.8089509,-122.1693309,15.7,2.3,2.1
+918.377,37.8090928,-122.1693724,16.2,2.5,2.2
+924.393,37.8092226,-122.1694585,16.3,2.7,2.2
+931.385,37.8092982,-122.1696123,15.9,2.8,2.2
+936.393,37.8094377,-122.1696429,15.7,2.9,2.2
+941.387,37.8096033,-122.1696345,18.4,3.0,2.3
+945.384,37.8097602,-122.1696435,17.4,3.1,2.3
+950.382,37.8099082,-122.1696568,16.5,3.1,2.4
+955.379,37.8100389,-122.1697316,15.9,3.1,2.5
+961.384,37.8101624,-122.1698688,18.3,3.1,2.6
+966.400,37.8102755,-122.1699726,15.5,3.1,2.6
+971.395,37.8103450,-122.1701250,15.5,3.1,2.7
+976.387,37.8105080,-122.1700848,18.4,3.2,2.8
+981.386,37.8106455,-122.1699838,17.7,3.3,2.9
+986.382,37.8107709,-122.1698871,16.3,3.3,3.0
+991.386,37.8109131,-122.1698733,15.8,3.4,3.1
+997.380,37.8110636,-122.1699173,17.1,3.4,3.1
+1003.384,37.8112109,-122.1699149,16.4,3.3,3.1
+1011.381,37.8113349,-122.1700093,16.1,3.1,3.1
+1023.391,37.8113615,-122.1700667,5.9,2.8,2.9
+1051.387,37.8114907,-122.1701284,15.3,1.8,2.6
+1055.383,37.8116444,-122.1701017,17.2,1.9,2.7
+1059.394,37.8118109,-122.1701014,18.5,2.0,2.7
+1067.487,37.8119467,-122.1701719,16.3,2.0,2.6
+1074.385,37.8120705,-122.1702943,17.5,2.0,2.5
+1079.391,37.8121741,-122.1703053,11.5,2.1,2.5
+1086.397,37.8121243,-122.1701229,17.0,2.2,2.5
+1093.386,37.8120763,-122.1699324,17.6,2.3,2.4
+1099.400,37.8119925,-122.1697640,17.5,2.6,2.4
+1103.386,37.8119179,-122.1695991,16.7,2.8,2.4
+1108.401,37.8118841,-122.1694276,15.6,2.9,2.4
+1113.426,37.8119382,-122.1692706,15.1,2.9,2.4
+1119.391,37.8119656,-122.1690757,17.4,2.8,2.4
+1132.417,37.8118810,-122.1689111,17.3,2.6,2.3
+1138.397,37.8118197,-122.1687507,15.7,2.6,2.4
+1144.386,37.8118193,-122.1685634,16.5,2.7,2.4
+1149.386,37.8117093,-122.1684235,17.4,2.8,2.5
+1156.387,37.8115683,-122.1683506,16.9,2.7,2.6
+1162.387,37.8114884,-122.1682021,15.8,2.7,2.7
+1169.388,37.8114017,-122.1680469,16.7,2.5,2.7
+1177.458,37.8112667,-122.1679532,17.1,2.4,2.6
+1184.406,37.8111793,-122.1677997,16.6,2.4,2.6
+1195.387,37.8112217,-122.1676277,15.9,2.4,2.5
+1203.392,37.8112302,-122.1674518,15.5,2.3,2.5
+1215.393,37.8111677,-122.1672862,16.1,2.0,2.4
+1223.393,37.8111047,-122.1671231,16.0,1.9,2.2
+1229.393,37.8110316,-122.1669437,17.8,2.0,2.2
+1234.386,37.8109790,-122.1667804,15.5,2.0,2.3
+1242.400,37.8110101,-122.1666104,15.4,2.0,2.2
+1247.388,37.8110903,-122.1664709,15.2,2.1,2.3
+1252.388,37.8112336,-122.1664070,16.9,2.3,2.4
+1256.391,37.8113799,-122.1663610,16.7,2.4,2.4
+1261.401,37.8115083,-122.1662868,15.7,2.5,2.4
+1271.645,37.8114675,-122.1660933,17.6,2.6,2.3
+1286.412,37.8114308,-122.1659873,10.2,2.4,2.2
+1293.523,37.8113153,-122.1658773,16.1,2.3,2.2
+1300.029,37.8112773,-122.1656843,17.5,2.4,2.2
+1304.465,37.8112434,-122.1655159,15.3,2.5,2.2
+1308.471,37.8111123,-122.1653782,18.9,2.6,2.4
+1312.484,37.8109705,-122.1653132,16.7,2.6,2.5
+1317.417,37.8108369,-122.1652207,16.9,2.6,2.5
+1323.388,37.8107191,-122.1650900,17.4,2.6,2.6
+1329.398,37.8106685,-122.1649096,16.8,2.7,2.6
+1335.416,37.8105978,-122.1647240,18.1,2.7,2.7
+1340.399,37.8105456,-122.1645617,15.4,2.9,2.8
+1346.396,37.8104646,-122.1643883,17.7,3.1,2.8
+1351.398,37.8104275,-122.1642153,15.8,3.3,2.8
+1357.401,37.8103655,-122.1640361,17.2,3.2,2.8
+1363.394,37.8103140,-122.1638470,17.6,3.2,2.8
+1369.385,37.8102586,-122.1636682,16.9,3.1,2.8
+1374.403,37.8101767,-122.1635251,15.5,3.0,2.8
+1380.393,37.8101085,-122.1633599,16.4,2.9,2.7
+1386.390,37.8100610,-122.1631672,17.8,3.0,2.8
+1392.392,37.8099928,-122.1629855,17.7,3.0,2.8
+1397.426,37.8099142,-122.1628463,15.0,3.0,2.9
+1404.484,37.8098304,-122.1626944,16.3,2.9,3.0
+1426.392,37.8097188,-122.1625662,16.8,2.1,2.6
+1443.467,37.8096090,-122.1624206,17.7,1.7,2.3
+1448.521,37.8095064,-122.1622806,16.8,1.7,2.3
+1453.558,37.8093875,-122.1621371,18.3,1.8,2.4
+1457.497,37.8092761,-122.1620372,15.2,1.8,2.4
+1461.479,37.8091755,-122.1619146,15.5,2.0,2.4
+1466.395,37.8090685,-122.1617663,17.6,2.1,2.5
+1472.390,37.8089597,-122.1616143,18.0,2.3,2.5
+1477.665,37.8088263,-122.1615377,16.3,2.5,2.5
+1482.752,37.8086779,-122.1614528,18.1,2.8,2.5
+1487.701,37.8085618,-122.1613315,16.7,2.9,2.5
+1492.402,37.8084435,-122.1611653,19.7,3.2,2.5
+1498.398,37.8083372,-122.1610515,15.5,3.3,2.5
+1503.388,37.8082294,-122.1609429,15.3,3.4,2.6
+1508.413,37.8081164,-122.1608370,15.6,3.4,2.6
+1513.410,37.8080309,-122.1606980,15.5,3.3,2.6
+1518.410,37.8079962,-122.1605197,16.2,3.3,2.6
+1523.410,37.8079928,-122.1603409,15.7,3.2,2.6
+1529.402,37.8080065,-122.1601510,16.8,3.2,2.6
+1534.419,37.8079888,-122.1600294,10.9,3.1,2.7
+1538.890,37.8078911,-122.1598982,15.9,3.1,2.9
+1544.463,37.8078367,-122.1597193,16.9,3.1,3.0
+1547.426,37.8078282,-122.1596133,9.4,3.1,3.0
+1552.389,37.8078602,-122.1594352,16.1,3.1,3.1
+1557.389,37.8078637,-122.1592583,15.6,3.1,3.2
+1562.400,37.8078489,-122.1590687,16.8,3.1,3.3
+1567.400,37.8077430,-122.1589548,15.5,3.1,3.3
+1575.405,37.8076555,-122.1587946,17.1,3.0,3.2
+1581.396,37.8075857,-122.1586443,15.3,2.9,3.1
+1586.394,37.8074833,-122.1585251,15.5,3.0,3.1
+1592.411,37.8073878,-122.1583672,17.5,3.0,3.1
+1597.540,37.8072512,-122.1582812,16.9,3.0,3.1
+1602.403,37.8071257,-122.1581710,17.0,3.1,3.1
+1608.403,37.8070149,-122.1580369,17.0,3.0,3.1
+1613.703,37.8069187,-122.1578961,16.4,3.0,3.0
+1618.692,37.8068126,-122.1577163,19.7,3.0,3.1
+1622.435,37.8067460,-122.1575486,16.5,3.1,3.1
+1627.393,37.8066599,-122.1573728,18.2,3.2,3.1
+1630.445,37.8065877,-122.1573321,8.8,3.2,3.1
+1636.427,37.8065326,-122.1571474,17.4,3.3,3.1
+1644.589,37.8064813,-122.1569838,15.5,3.2,3.0
+1650.766,37.8064391,-122.1567988,17.0,3.1,3.1
+1655.390,37.8063610,-122.1566306,17.2,3.2,3.1
+1660.472,37.8063262,-122.1564629,15.3,3.1,3.1
+1665.399,37.8062576,-122.1563067,15.7,3.1,3.1
+1670.388,37.8061788,-122.1561549,16.0,3.2,3.1
+1675.523,37.8060780,-122.1559965,17.9,3.2,3.1
+1681.756,37.8059795,-122.1558617,16.1,3.0,3.1
+1693.391,37.8059207,-122.1558413,6.8,2.6,2.9
+1698.390,37.8059325,-122.1557274,10.1,2.5,2.9
+1701.398,37.8059219,-122.1557989,6.4,1.9,2.6
+1715.396,37.8058768,-122.1557621,6.0,1.9,2.6
+1725.413,37.8058848,-122.1557214,3.7,1.6,2.4
+1753.387,37.8058937,-122.1557867,5.8,0.6,1.6
+1755.380,37.8058789,-122.1557773,1.8,0.6,1.6
+1795.392,37.8059107,-122.1557507,4.2,0.2,0.6
+1819.393,37.8059632,-122.1559358,17.3,0.3,0.4
+1823.394,37.8059557,-122.1561218,16.4,0.6,0.5
+1827.395,37.8059103,-122.1562998,16.5,0.9,0.6
+1831.397,37.8058553,-122.1564675,16.0,1.1,0.8
+1836.404,37.8058356,-122.1566746,18.4,1.5,0.9
+1841.403,37.8058679,-122.1568735,17.9,1.8,1.0
+1845.394,37.8058952,-122.1570413,15.1,2.0,1.1
+1849.401,37.8059605,-122.1572045,16.1,2.3,1.2
+1854.461,37.8060308,-122.1573659,16.2,2.5,1.4
+1861.397,37.8060143,-122.1576021,20.9,2.7,1.5
+1866.409,37.8060249,-122.1577759,15.4,3.0,1.6
+1870.405,37.8060176,-122.1578875,9.9,3.2,1.7
+1874.396,37.8061064,-122.1580257,15.7,3.4,1.8
+1878.418,37.8062017,-122.1581544,15.5,3.6,1.9
+1883.398,37.8062753,-122.1583402,18.3,3.6,2.1
+1889.396,37.8062262,-122.1585299,17.6,3.5,2.2
+1894.456,37.8061731,-122.1587259,18.2,3.4,2.4
+1899.403,37.8061372,-122.1588965,15.5,3.4,2.5
+1905.505,37.8060761,-122.1590749,17.1,3.3,2.7
+1911.445,37.8059719,-122.1592098,16.6,3.2,2.8
+1916.423,37.8058551,-122.1593073,15.5,3.2,2.9
+1921.396,37.8057456,-122.1594500,17.5,3.3,3.0
+1925.410,37.8057540,-122.1596470,17.4,3.3,3.1
+1930.444,37.8058146,-122.1598277,17.3,3.4,3.3
+1935.399,37.8059198,-122.1599600,16.5,3.4,3.4
+1940.483,37.8059524,-122.1601439,16.6,3.3,3.5
+1945.526,37.8059366,-122.1603468,17.9,3.3,3.4
+1950.400,37.8060148,-122.1605043,16.4,3.4,3.4
+1954.408,37.8061110,-122.1605638,11.9,3.3,3.4
+1960.546,37.8062086,-122.1607068,16.6,3.3,3.3
+1965.450,37.8062804,-122.1608352,13.8,3.3,3.3
+1971.401,37.8062213,-122.1610015,16.0,3.3,3.2
+1976.452,37.8061240,-122.1611301,15.6,3.3,3.3
+1981.430,37.8060333,-122.1612629,15.4,3.2,3.3
+1987.430,37.8059170,-122.1613580,15.4,3.1,3.2
+1992.397,37.8058051,-122.1614631,15.5,3.1,3.2
+1998.429,37.8057108,-122.1616281,17.9,3.0,3.2
+2002.436,37.8056699,-122.1617946,15.3,3.1,3.2
+2007.453,37.8057042,-122.1619719,16.1,3.0,3.2
+2013.398,37.8056790,-122.1621703,17.7,3.0,3.2
+2018.440,37.8056126,-122.1623487,17.4,3.1,3.2
+2023.128,37.8056341,-122.1624613,10.2,3.1,3.2
+2026.400,37.8057491,-122.1625765,16.3,3.1,3.2
+2031.398,37.8058747,-122.1626600,15.8,3.2,3.2
+2036.468,37.8060389,-122.1626958,18.5,3.2,3.3
+2039.402,37.8061335,-122.1627655,12.2,3.2,3.3
+2044.407,37.8061602,-122.1629096,13.0,3.3,3.2
+2048.404,37.8060670,-122.1630373,15.3,3.3,3.2
+2053.712,37.8059473,-122.1631642,17.4,3.4,3.2
+2058.763,37.8058509,-122.1633059,16.4,3.4,3.2
+2063.458,37.8058199,-122.1634891,16.5,3.4,3.2
+2068.393,37.8058694,-122.1636542,15.5,3.4,3.2
+2072.392,37.8059541,-122.1638138,16.9,3.4,3.2
+2078.404,37.8059842,-122.1639875,15.7,3.4,3.2
+2084.501,37.8059917,-122.1641852,17.4,3.3,3.2
+2089.398,37.8060800,-122.1643404,16.8,3.3,3.2
+2095.420,37.8062108,-122.1643961,15.3,3.3,3.2
+2101.549,37.8063430,-122.1645271,18.7,3.2,3.2
+2122.404,37.8063162,-122.1645797,5.5,2.3,2.8
+2132.405,37.8061861,-122.1644485,18.5,2.0,2.7
+2140.410,37.8061404,-122.1642611,17.3,1.8,2.5
+2158.407,37.8061460,-122.1641928,6.0,1.3,2.2
+2177.413,37.8062831,-122.1641560,15.6,1.2,1.8
+2188.404,37.8064278,-122.1641470,16.1,1.3,1.7
+2201.405,37.8065538,-122.1640735,15.4,1.1,1.5
+2210.395,37.8066996,-122.1640452,16.4,1.2,1.4
+2217.399,37.8068343,-122.1639851,15.9,1.4,1.3
+2236.436,37.8069579,-122.1639090,15.3,1.4,1.3
+2243.405,37.8070361,-122.1640488,15.1,1.5,1.4
+2249.404,37.8071852,-122.1641215,17.7,1.6,1.4
+2252.405,37.8072354,-122.1642102,9.6,1.7,1.5
+2256.394,37.8072227,-122.1643202,9.8,1.8,1.5
+2267.515,37.8073615,-122.1643390,15.5,1.8,1.5
+2281.400,37.8074890,-122.1644364,16.6,1.7,1.5
+2287.400,37.8075945,-122.1645684,16.5,1.9,1.6
+2292.555,37.8075207,-122.1647369,16.9,2.1,1.7
+2298.477,37.8074098,-122.1648773,17.5,2.3,1.8
+2320.418,37.8072865,-122.1650044,17.7,1.6,1.7
+2338.696,37.8071804,-122.1651551,17.7,1.7,1.6
+2346.441,37.8071125,-122.1653101,15.6,1.6,1.7
+2356.586,37.8071232,-122.1654809,15.1,1.3,1.8
+2376.446,37.8072170,-122.1656113,15.5,1.3,1.5
+2393.406,37.8072689,-122.1657086,10.3,1.3,1.4
+2405.452,37.8072214,-122.1657614,7.0,1.0,1.3
+2432.397,37.8072494,-122.1658383,7.5,0.7,0.9
+2438.419,37.8073938,-122.1658459,16.0,0.8,1.0
+2442.401,37.8075469,-122.1658164,17.2,1.0,1.1
+2446.466,37.8076885,-122.1657870,15.9,1.2,1.3
+2449.413,37.8078276,-122.1657812,15.4,1.5,1.4
+2452.450,37.8079600,-122.1657439,15.1,1.7,1.5
+2457.426,37.8081244,-122.1657523,18.3,1.9,1.6
+2462.450,37.8082662,-122.1658071,16.5,2.2,1.6
+2468.447,37.8083605,-122.1658382,10.8,2.3,1.6
+2475.448,37.8082700,-122.1659845,16.3,2.6,1.7
+2488.440,37.8081849,-122.1661243,15.5,2.8,1.7
+2501.400,37.8081545,-122.1663439,19.6,2.7,1.8
+2505.406,37.8081474,-122.1665652,19.5,2.6,1.9
+2509.408,37.8081528,-122.1666509,7.6,2.6,2.0
+2515.403,37.8082938,-122.1667238,16.9,2.4,2.1
+2521.407,37.8084275,-122.1668146,16.8,2.3,2.2
+2527.406,37.8085722,-122.1669322,19.1,2.3,2.3
+2534.404,37.8086824,-122.1670339,15.2,2.3,2.4
+2538.410,37.8088173,-122.1670918,15.8,2.4,2.6
+2541.434,37.8088809,-122.1671845,10.8,2.5,2.7
+2550.417,37.8088902,-122.1673580,15.3,2.6,2.8
+2564.403,37.8089968,-122.1674866,16.4,2.3,2.5
+2571.657,37.8090568,-122.1676745,17.8,2.4,2.4
+2576.273,37.8091187,-122.1678500,16.9,2.5,2.4
+2579.403,37.8092076,-122.1679873,15.6,2.5,2.4
+2581.403,37.8091986,-122.1680210,3.1,2.5,2.4
+2587.405,37.8090548,-122.1679663,16.7,2.5,2.4
+2594.436,37.8089235,-122.1678741,16.7,2.5,2.4
+2606.406,37.8087939,-122.1678096,15.5,2.1,2.4
+2621.398,37.8086540,-122.1677916,15.6,2.1,2.3
+2627.398,37.8085150,-122.1678024,15.4,2.2,2.3
+2631.411,37.8083915,-122.1678822,15.4,2.3,2.3
+2635.408,37.8082495,-122.1679180,16.1,2.2,2.3
+2638.424,37.8081646,-122.1679854,11.1,2.2,2.4
+2643.445,37.8080405,-122.1679128,15.2,2.2,2.4
+2649.434,37.8079065,-122.1678398,16.2,2.2,2.4
+2655.443,37.8077507,-122.1678714,17.5,2.3,2.4
+2663.397,37.8076388,-122.1680082,17.3,2.4,2.3
+2673.418,37.8075085,-122.1680988,16.5,2.6,2.3
+2690.403,37.8074174,-122.1682059,13.8,2.4,2.3
+2702.398,37.8074467,-122.1682984,8.8,1.8,2.0
+2719.402,37.8073171,-122.1683786,16.0,1.3,1.8
+2733.421,37.8072999,-122.1685625,16.3,1.1,1.8
+2745.500,37.8072973,-122.1687340,15.1,1.1,1.8
+2757.471,37.8072508,-122.1689014,15.6,1.2,1.6
+2762.422,37.8072385,-122.1690713,15.0,1.4,1.6
+2768.569,37.8072388,-122.1692419,15.0,1.5,1.6
+2784.428,37.8073686,-122.1693425,16.9,1.5,1.4
+2789.422,37.8074976,-122.1694031,15.3,1.7,1.4
+2794.690,37.8076333,-122.1694276,15.2,1.8,1.4
+2799.418,37.8077452,-122.1695567,16.8,2.0,1.5
+2804.426,37.8078314,-122.1696968,15.6,2.1,1.6
+2813.438,37.8078579,-122.1698731,15.8,2.2,1.7
+2821.533,37.8078599,-122.1700553,16.0,2.2,1.8
+2828.606,37.8079728,-122.1701718,16.2,2.2,1.8
+2834.506,37.8080060,-122.1703461,15.8,2.3,1.9
+2842.416,37.8079120,-122.1704759,15.5,2.5,2.0
+2849.407,37.8078503,-122.1706419,16.1,2.5,2.1
+2856.574,37.8078427,-122.1708223,15.9,2.4,2.1
+2862.407,37.8079075,-122.1709806,15.7,2.3,2.2
+2866.543,37.8079340,-122.1710970,10.7,2.3,2.2
+2875.409,37.8077390,-122.1710180,22.7,2.5,2.3
+2880.695,37.8075968,-122.1708904,19.4,2.6,2.4
+2885.706,37.8074551,-122.1708379,16.4,2.7,2.4
+2891.724,37.8073121,-122.1707805,16.7,2.7,2.5
+2896.467,37.8071843,-122.1707043,15.7,2.7,2.6
+2903.463,37.8070488,-122.1706609,15.5,2.8,2.7
+2909.478,37.8068939,-122.1706733,17.2,2.8,2.6
+2914.491,37.8067549,-122.1707087,15.7,2.9,2.7
+2919.442,37.8066066,-122.1707106,16.5,3.0,2.6
+2924.494,37.8064736,-122.1707520,15.2,3.0,2.6
+2931.504,37.8063368,-122.1708393,17.0,3.0,2.7
+2936.461,37.8062677,-122.1709451,12.1,3.0,2.7
+2942.393,37.8062588,-122.1711664,19.5,2.9,2.8
+2947.466,37.8061803,-122.1712463,11.2,2.8,2.8
+2952.448,37.8060423,-122.1712209,15.5,2.9,2.8
+2958.467,37.8058824,-122.1713363,20.4,2.9,2.8
+2963.411,37.8057895,-122.1714696,15.6,3.0,2.9
+2969.465,37.8057665,-122.1716419,15.4,3.0,2.9
+2973.415,37.8057418,-122.1717564,10.5,2.9,2.9
+2977.468,37.8056100,-122.1718072,15.3,3.0,3.0
+2981.424,37.8054636,-122.1718263,16.3,3.0,3.0
+2986.452,37.8053220,-122.1718995,17.0,3.1,3.0
+2991.455,37.8052174,-122.1720194,15.7,3.1,3.1
+2996.451,37.8051905,-122.1721932,15.6,3.2,3.1
+3002.403,37.8051864,-122.1723739,15.9,3.2,3.1
+3011.514,37.8052044,-122.1725576,16.3,3.0,2.9
+3017.409,37.8052844,-122.1727055,15.8,3.0,2.9
+3021.426,37.8054170,-122.1727749,15.9,3.0,3.0
+3023.407,37.8054478,-122.1728383,6.5,3.0,3.0
+3027.420,37.8053207,-122.1729489,17.1,3.1,3.0
+3031.407,37.8052002,-122.1730417,15.7,3.2,3.1
+3035.459,37.8050992,-122.1731837,16.8,3.3,3.1
+3040.725,37.8049813,-122.1733256,18.1,3.2,3.1
+3045.451,37.8049228,-122.1734918,16.0,3.2,3.1
+3051.497,37.8048770,-122.1736675,16.3,3.2,3.1
+3057.421,37.8048102,-122.1736225,8.4,3.0,3.1
+3061.412,37.8047436,-122.1735472,9.9,3.0,3.1
+3066.410,37.8046868,-122.1737130,15.9,3.1,3.1
+3071.446,37.8046565,-122.1738898,15.9,3.2,3.1
+3076.461,37.8046328,-122.1740884,17.7,3.3,3.2
+3082.494,37.8045955,-122.1742613,15.8,3.2,3.1
+3087.437,37.8045265,-122.1744232,16.2,3.1,3.1
+3091.441,37.8044857,-122.1745871,15.1,3.1,3.1
+3097.459,37.8044439,-122.1748121,20.3,3.1,3.2
+3100.462,37.8043955,-122.1748825,8.2,3.0,3.1
+3107.403,37.8043572,-122.1747101,15.8,2.9,3.1
+3118.422,37.8042595,-122.1745696,16.5,2.8,2.9
+3128.461,37.8042438,-122.1743820,16.6,2.7,2.9
+3132.452,37.8042750,-122.1742077,15.7,2.7,3.0
+3137.509,37.8042432,-122.1740409,15.1,2.6,3.0
+3140.450,37.8042113,-122.1739640,7.6,2.6,2.9
+3145.417,37.8040437,-122.1739222,19.0,2.6,2.9
+3161.438,37.8039029,-122.1739344,15.7,2.1,2.6
+3175.429,37.8038325,-122.1740917,15.9,2.0,2.4
+3181.430,37.8039252,-122.1742367,16.4,2.1,2.4
+3187.438,37.8039651,-122.1744052,15.5,2.1,2.4
+3195.450,37.8039225,-122.1745810,16.2,2.0,2.3
+3202.497,37.8038458,-122.1747279,15.5,1.9,2.3
+3207.506,37.8037573,-122.1748587,15.1,1.9,2.3
+3213.458,37.8036752,-122.1750168,16.6,2.0,2.2
+3220.456,37.8035782,-122.1751528,16.1,2.2,2.2
+3227.491,37.8034719,-122.1752742,15.9,2.3,2.1
+3235.452,37.8033538,-122.1753866,16.4,2.4,2.2
+3241.492,37.8033669,-122.1755843,17.5,2.4,2.3
+3245.456,37.8033513,-122.1757104,11.2,2.5,2.3
+3251.456,37.8032336,-122.1755908,16.8,2.5,2.3
+3255.446,37.8031435,-122.1755304,11.3,2.6,2.3
+3261.438,37.8031325,-122.1757179,16.6,2.7,2.3
+3266.445,37.8031385,-122.1758889,15.1,2.7,2.3
+3272.407,37.8031504,-122.1760614,15.2,2.6,2.3
+3277.459,37.8032072,-122.1762442,17.3,2.7,2.4
+3282.435,37.8033256,-122.1763642,16.9,2.8,2.5
+3287.431,37.8034362,-122.1764944,16.8,2.9,2.6
+3291.447,37.8034370,-122.1765719,6.8,2.9,2.6
+3296.436,37.8033721,-122.1765869,7.3,2.8,2.6
+3296.715,37.8033721,-122.1765869,0.0,2.8,2.6
+</abvio:coordinateTable>
+<abvio:altitudeTable>
+0.478,335.8,0.0,0.000,335.8
+26.445,332.4,0.0,0.000,332.4
+52.518,336.4,0.0,0.000,336.4
+96.687,332.0,0.0,-0.027,332.0
+107.613,328.5,0.0,-0.084,328.5
+112.739,326.1,0.0,-0.171,326.1
+129.449,322.6,0.0,-0.230,332.8
+168.364,319.5,0.0,-0.148,329.1
+173.411,321.5,0.0,-0.075,328.4
+184.448,325.1,0.0,0.006,326.9
+190.415,329.5,0.0,0.113,326.4
+196.508,330.2,0.0,0.128,326.1
+207.403,333.7,0.0,0.204,325.8
+228.425,335.5,0.0,0.266,326.1
+233.428,338.7,0.0,0.286,326.5
+245.405,339.0,0.0,0.229,327.8
+256.457,342.0,0.0,0.199,329.4
+262.445,346.1,0.0,0.249,330.4
+286.407,351.2,0.0,0.287,335.4
+291.920,350.4,0.0,0.229,336.7
+313.475,354.0,0.0,0.211,341.8
+346.432,358.3,0.0,0.118,348.2
+352.437,359.9,0.0,0.163,349.3
+358.422,358.0,0.0,0.114,350.3
+386.421,362.1,0.0,0.101,354.2
+391.442,364.0,0.0,0.134,354.9
+396.447,364.0,0.0,0.126,355.7
+402.410,366.5,0.0,0.186,356.6
+412.449,366.0,0.0,0.101,358.1
+417.450,367.1,0.0,0.137,358.7
+428.541,364.4,0.0,0.119,360.0
+434.409,359.4,0.0,0.051,360.3
+455.422,363.5,0.0,0.021,361.4
+461.398,370.0,0.0,0.061,362.0
+483.432,376.8,0.0,0.154,364.2
+494.416,374.8,0.0,0.256,366.1
+499.457,374.4,0.0,0.209,366.8
+505.457,377.6,0.0,0.259,367.6
+522.395,383.9,0.0,0.228,369.8
+527.406,380.4,0.0,0.205,370.4
+539.447,378.8,0.0,0.078,371.6
+545.381,375.4,0.0,-0.038,372.1
+550.449,370.1,0.0,-0.130,372.5
+556.466,371.6,0.0,-0.060,372.9
+572.701,374.9,0.0,-0.066,374.4
+584.388,380.2,0.0,-0.040,375.6
+589.412,376.4,0.0,-0.040,376.0
+594.431,381.6,0.0,0.037,376.4
+611.431,377.4,0.0,0.120,377.3
+617.534,374.1,0.0,0.051,377.3
+634.422,370.4,0.0,-0.116,376.8
+657.382,367.9,0.0,-0.226,374.9
+662.494,365.5,0.0,-0.298,374.3
+674.411,363.5,0.0,-0.209,373.6
+679.444,357.6,0.0,-0.309,373.1
+690.418,351.5,0.0,-0.336,367.1
+717.534,346.1,0.0,-0.363,365.4
+723.382,341.9,0.0,-0.387,363.7
+740.455,337.2,0.0,-0.331,358.3
+750.612,339.3,0.0,-0.211,355.4
+774.376,344.0,0.0,-0.087,349.5
+784.566,340.8,0.0,-0.019,347.5
+790.493,346.2,0.0,0.106,343.8
+817.375,346.8,0.0,0.154,343.6
+822.378,350.5,0.0,0.168,343.3
+837.425,354.1,0.0,0.130,343.4
+848.395,350.4,0.0,0.119,344.3
+854.391,353.4,0.0,0.151,344.8
+881.387,357.5,0.0,0.145,348.5
+887.390,354.3,0.0,0.064,349.4
+898.384,358.7,0.0,0.075,350.5
+943.387,355.5,0.0,-0.019,355.8
+948.395,350.5,0.0,-0.106,356.0
+965.479,353.9,0.0,-0.059,355.9
+977.394,353.2,0.0,-0.128,356.0
+983.384,350.9,0.0,-0.121,355.9
+989.384,350.8,0.0,-0.143,355.7
+1000.384,353.1,0.0,-0.090,355.3
+1039.389,357.0,0.0,0.058,354.1
+1061.392,353.6,0.0,0.002,353.5
+1067.487,358.2,0.0,0.064,353.5
+1099.400,354.6,0.0,-0.039,355.0
+1110.387,358.4,0.0,0.075,355.3
+1116.388,363.6,0.0,0.141,355.9
+1127.686,364.0,0.0,0.097,356.9
+1139.474,368.1,0.0,0.134,358.2
+1161.400,364.7,0.0,0.151,360.7
+1172.475,366.2,0.0,0.085,361.7
+1189.387,371.4,0.0,0.097,363.3
+1229.393,376.3,0.0,0.174,368.3
+1240.461,374.2,0.0,0.114,369.8
+1274.480,370.3,0.0,-0.059,373.3
+1341.411,367.2,0.0,-0.085,372.6
+1359.389,362.7,0.0,-0.168,371.2
+1365.410,364.1,0.0,-0.103,370.5
+1388.391,367.6,0.0,-0.005,368.9
+1399.684,363.5,0.0,-0.069,368.3
+1416.472,367.0,0.0,0.025,367.3
+1438.461,364.0,0.0,0.002,365.2
+1501.405,368.4,0.0,0.067,364.7
+1534.419,362.6,0.0,-0.008,365.2
+1562.400,359.1,0.0,-0.140,364.5
+1573.406,356.0,0.0,-0.203,363.9
+1585.405,352.6,0.0,-0.238,363.0
+1619.574,349.4,0.0,-0.165,359.6
+1625.388,350.9,0.0,-0.108,358.9
+1636.427,348.2,0.0,-0.130,357.1
+1646.762,342.8,0.0,-0.145,353.3
+1679.472,341.8,0.0,-0.122,349.4
+1685.415,340.7,0.0,-0.170,348.6
+1697.392,341.3,0.0,-0.113,347.1
+1731.397,345.2,0.0,0.048,344.0
+1758.396,342.1,0.0,0.013,342.9
+1821.414,337.9,0.0,-0.076,342.4
+1843.484,335.1,0.0,-0.129,341.6
+1849.401,336.7,0.0,-0.102,341.2
+1872.402,330.7,0.0,-0.154,339.4
+1882.495,327.1,0.0,-0.179,338.3
+1899.403,333.7,0.0,-0.025,336.4
+1922.396,326.5,0.0,-0.160,334.6
+1927.404,322.2,0.0,-0.237,333.9
+1932.454,318.0,0.0,-0.211,333.1
+1943.612,313.7,0.0,-0.226,330.9
+1955.390,312.5,0.0,-0.256,328.6
+1960.546,309.2,0.0,-0.409,327.5
+1972.406,304.1,0.0,-0.452,324.8
+1993.410,303.2,0.0,-0.243,319.1
+1998.429,298.1,0.0,-0.288,317.8
+2003.484,293.6,0.0,-0.334,316.5
+2009.425,289.3,0.0,-0.414,314.7
+2015.391,283.1,0.0,-0.491,312.7
+2022.584,277.8,0.0,-0.528,310.3
+2032.401,274.4,0.0,-0.509,304.8
+2037.421,271.2,0.0,-0.558,302.3
+2054.705,265.8,0.0,-0.593,294.6
+2059.733,261.6,0.0,-0.601,292.4
+2065.410,256.1,0.0,-0.623,289.9
+2082.479,249.0,0.0,-0.495,281.7
+2110.398,252.2,0.0,-0.314,268.7
+2115.415,252.0,0.0,-0.228,266.4
+2134.061,245.3,0.0,-0.172,259.7
+2139.408,243.9,0.0,-0.117,257.9
+2172.420,244.9,0.0,-0.130,250.3
+2178.405,244.5,0.0,-0.115,249.1
+2194.407,248.6,0.0,0.054,247.2
+2205.407,259.2,0.0,0.203,247.4
+2211.405,259.7,0.0,0.261,248.0
+2228.394,265.9,0.0,0.349,249.7
+2249.404,272.3,0.0,0.426,252.7
+2254.408,269.1,0.0,0.342,253.6
+2266.472,272.2,0.0,0.209,256.2
+2272.402,275.5,0.0,0.259,257.6
+2277.445,272.9,0.0,0.211,258.9
+2289.410,272.5,0.0,0.111,261.5
+2299.611,274.7,0.0,0.159,263.9
+2305.454,278.2,0.0,0.167,265.6
+2311.399,279.5,0.0,0.106,267.0
+2316.414,280.6,0.0,0.208,268.6
+2326.515,284.4,0.0,0.204,271.0
+2331.614,282.6,0.0,0.115,272.0
+2336.701,285.3,0.0,0.196,273.0
+2347.441,289.0,0.0,0.293,275.2
+2358.505,286.0,0.0,0.182,277.2
+2370.457,290.1,0.0,0.178,279.0
+2376.446,287.3,0.0,0.111,279.9
+2428.386,291.5,0.0,0.045,287.0
+2444.400,287.5,0.0,-0.037,287.7
+2454.492,281.7,0.0,-0.132,288.0
+2460.481,283.8,0.0,-0.067,287.8
+2466.434,280.0,0.0,-0.123,287.6
+2472.393,284.3,0.0,-0.054,287.4
+2482.456,280.6,0.0,-0.108,287.1
+2487.438,279.5,0.0,-0.212,286.8
+2504.406,272.5,0.0,-0.250,285.3
+2509.408,275.6,0.0,-0.203,284.6
+2514.410,275.4,0.0,-0.125,284.0
+2530.414,273.5,0.0,-0.167,282.5
+2541.434,269.6,0.0,-0.187,281.0
+2547.404,271.6,0.0,-0.124,280.1
+2552.404,269.3,0.0,-0.174,279.2
+2558.419,273.4,0.0,-0.078,278.3
+2564.403,276.5,0.0,0.034,277.4
+2576.273,280.7,0.0,0.077,276.8
+2587.405,280.1,0.0,0.132,276.7
+2604.421,283.4,0.0,0.228,276.7
+2621.398,288.9,0.0,0.250,277.3
+2632.459,285.9,0.0,0.119,278.5
+2643.445,282.5,0.0,-0.002,279.3
+2655.443,289.0,0.0,0.098,280.5
+2661.397,290.0,0.0,0.141,281.3
+2666.419,290.0,0.0,0.112,282.2
+2672.403,291.8,0.0,0.164,283.2
+2683.392,290.5,0.0,0.024,285.1
+2698.484,296.9,0.0,0.173,287.0
+2709.420,299.9,0.0,0.260,288.4
+2720.409,303.0,0.0,0.203,290.2
+2742.462,307.0,0.0,0.272,294.1
+2759.491,313.0,0.0,0.262,297.8
+2770.485,312.5,0.0,0.192,300.6
+2781.420,310.8,0.0,0.116,302.8
+2809.538,314.4,0.0,0.006,307.5
+2815.408,317.6,0.0,0.057,308.5
+2831.557,321.7,0.0,0.166,311.5
+2843.632,326.5,0.0,0.274,313.8
+2849.407,322.4,0.0,0.199,314.7
+2860.409,318.6,0.0,0.101,316.0
+2876.426,315.1,0.0,-0.042,316.9
+2898.424,319.4,0.0,-0.122,317.3
+2903.463,318.4,0.0,-0.133,317.7
+2908.490,320.8,0.0,-0.045,318.1
+2914.491,317.1,0.0,-0.054,318.5
+2920.415,321.3,0.0,0.046,318.7
+2952.448,318.2,0.0,0.036,319.5
+2968.450,314.2,0.0,-0.089,317.5
+2990.456,310.2,0.0,-0.207,317.1
+2996.451,314.2,0.0,-0.073,317.0
+3002.403,317.3,0.0,-0.052,317.0
+3012.482,311.8,0.0,-0.107,317.0
+3018.416,309.8,0.0,-0.148,316.7
+3024.425,313.6,0.0,-0.042,316.2
+3035.459,310.5,0.0,-0.079,315.8
+3046.440,307.1,0.0,-0.116,314.9
+3051.497,302.6,0.0,-0.128,314.2
+3057.421,297.7,0.0,-0.285,313.2
+3068.499,292.1,0.0,-0.385,311.0
+3092.466,295.2,0.0,-0.274,306.3
+3098.458,297.0,0.0,-0.227,305.5
+3109.457,296.6,0.0,-0.121,303.7
+3143.451,301.5,0.0,0.154,299.2
+3148.505,301.7,0.0,0.081,298.7
+3154.444,302.7,0.0,0.128,298.2
+3159.443,303.9,0.0,0.114,298.0
+3164.465,307.2,0.0,0.193,297.8
+3180.456,310.2,0.0,0.261,298.7
+3192.463,313.6,0.0,0.261,300.7
+3198.484,312.6,0.0,0.235,301.8
+3221.474,317.7,0.0,0.180,305.3
+3238.452,323.4,0.0,0.222,308.8
+3250.440,322.0,0.0,0.077,311.3
+3255.446,324.5,0.0,0.199,312.3
+3260.497,326.9,0.0,0.254,313.5
+3266.445,324.7,0.0,0.206,314.7
+3277.459,330.4,0.0,0.264,316.8
+3283.446,333.1,0.0,0.230,318.2
+3295.003,333.4,0.0,0.218,320.7
+</abvio:altitudeTable>
+</extensions>
+</gpx>
